@@ -1,4 +1,5 @@
 /.bashrc
+/.bash_history
 /.cache
 /.code-server
 /.conda
@@ -11,3 +12,5 @@
 /.npm
 /.profile
 /lost+found
+/piznet/.ipynb_checkpoints
+/.lesshst

@@ -53,3 +53,10 @@ git remote -v
 git add .
 git commit -m "updates to notbooks"
 git push
+git commit -a -m "update"
+git push
+git pull 
+ls -l ~/.ssh/id_ed25519
+chmod 600 ~/.ssh/id_ed25519
+ls -l ~/.ssh/id_ed25519
+git pull 

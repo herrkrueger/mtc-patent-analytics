@@ -15,3 +15,9 @@
 /piznet/.ipynb_checkpoints
 /.lesshst
 /.ssh
+/.DS_Store
+/piznet/.DS_Store
+/piznet/mappings/.DS_Store
+/training/.DS_Store
+/training/epap/.DS_Store
+/training/patstat/.DS_Store

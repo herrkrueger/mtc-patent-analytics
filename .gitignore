@@ -1,24 +1,18 @@
-/.bashrc
-/.bash_history
-/.cache
-/.code-server
-/.conda
-/.condarc
-/.config
-/.ipython
-/.jlab_bookmarks
-/.jupyter
-/.local
-/.npm
-/.profile
-/lost+found
-/piznet/.ipynb_checkpoints
-/.lesshst
-/.ssh
-/.DS_Store
-/piznet/.DS_Store
-/piznet/mappings/.DS_Store
-/training/.DS_Store
-/training/epap/.DS_Store
-/training/patstat/.DS_Store
-/piznet/output
+# Too bigga files
+/piznet/output/*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Optional: Weitere typische Ausschlüsse
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+node_modules/

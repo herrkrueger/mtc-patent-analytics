@@ -1,0 +1,44 @@
+{
+	"name": "sveltekit-2",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
+		"test": "playwright test",
+		"test:unit": "vitest",
+		"lint": "prettier --plugin-search-dir . --check . && eslint .",
+		"format": "prettier --plugin-search-dir . --write ."
+	},
+	"devDependencies": {
+		"@accuser/svelte-plausible-analytics": "^1.0.0",
+		"@fontsource/fira-mono": "^5.2.6",
+		"@neoconfetti/svelte": "^2.2.2",
+		"@playwright/test": "^1.52.0",
+		"@sveltejs/adapter-vercel": "^5.7.2",
+		"@sveltejs/kit": "^2.21.1",
+		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"autoprefixer": "^10.4.21",
+		"eslint": "^9.27.0",
+		"eslint-config-prettier": "^10.1.5",
+		"eslint-plugin-svelte": "^3.9.0",
+		"postcss": "^8.5.3",
+		"prettier": "^3.5.3",
+		"prettier-plugin-svelte": "^3.4.0",
+		"svelte": "^5.33.4",
+		"svelte-check": "^4.2.1",
+		"tailwindcss": "^4.1.7",
+		"typescript": "^5.8.3",
+		"vite": "^6.3.5",
+		"vitest": "^3.1.4",
+		"web-vitals": "^5.0.1"
+	},
+	"type": "module",
+	"dependencies": {
+		"@tailwindcss/postcss": "^4.1.7",
+		"d3": "^7.9.0",
+		"d3-sankey": "^0.12.3"
+	}
+}

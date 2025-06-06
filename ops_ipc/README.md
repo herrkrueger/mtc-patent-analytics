@@ -1,26 +1,53 @@
-# mtc-ipcwise
+# EPO OPS IPC Query Tool
 
-# Funktionen: 
-- Authentifizierung über OPS-API-Key und Secret (OAuth)
-- Suchanfrage nach IPC-Klasse (z. B. `A61K*`)
-- Ausgabe der Trefferanzahl (aus dem HTTP-Header)
-- Anzeige der Antwortzeit in Sekunden
-- Ausgabe der ersten 3 Dokumentnummern
-- Eingabe des IPC-Codes direkt im Terminal
+A user-friendly tool for Patent Information Experts to search patents by IPC classification using the EPO Open Patent Services (OPS) API.
 
-# Vorrausstezungen: 
-- Python 3.10 oder höher
-- Notweniges Paket: python -m pip install python-dotenv requests python-epo-ops-client
-- Das OPS-API-Key und Secret holt man sich von der Seite: https://developers.epo.org/user/register 
+## 🚀 Quick Start - For Non-Programmers
 
-# Ausführen: 
-- run drücken
-- Bitte gib einen IPC-Code ein (z. B. A61K*):
+**Recommended: Use the Interactive Jupyter Notebook**
 
-# Beispielausgabe: 
+The easiest way to use this tool is through the **interactive Jupyter notebook**:
+- Open `ipc_query_interactive_tutorial.ipynb`
+- Follow the step-by-step guided tutorial
+- No programming knowledge required - just run the cells and follow instructions
+- Interactive interface with clear explanations
+
+## What This Tool Does
+
+- **Search patents by IPC class** (e.g., `A61K*` for pharmaceuticals)
+- **Get instant results**: Total number of patents found
+- **View sample patents**: First 10 patent numbers from your search
+- **Fast response times**: See how quickly the EPO API responds
+- **Professional authentication**: Secure OAuth connection to EPO OPS API
+
+## Prerequisites
+
+1. **EPO OPS API Credentials**
+   - Register at: https://developers.epo.org/user/register
+   - Get your OPS_KEY and OPS_SECRET
+   - Add them to a `.env` file in this directory
+
+2. **Python Environment** (if not using Jupyter)
+   - Python 3.10 or higher
+   - Install required packages: `pip install python-dotenv requests python-epo-ops-client`
+
+## How to Use
+
+### Option 1: Interactive Jupyter Notebook (Recommended)
+1. Open `ipc_query_interactive_tutorial.ipynb`
+2. Run each cell step by step
+3. Follow the guided tutorial with explanations
+
+### Option 2: Command Line (Advanced Users)
+1. Run `python ipc_query.py`
+2. Enter an IPC code when prompted (e.g., `A61K*`)
+3. View results
+
+## Example Output
+```
 Authentifizierung erfolgreich
 Sende Anfrage für IPC: IC=A61K*
-Treffer insgesamt: 1234
+Treffer insgesamt: 1,234
 Antwortzeit: 1.73 Sekunden
 
 Erste Treffer (max. 10):
@@ -29,23 +56,29 @@ Erste Treffer (max. 10):
  • EP3356789
  • EP2345678
  • EP3451789
- • EP2345628
- • EP3456489
- • EP2345678
- • EP3450789
- • EP2349678
- 
+```
 
-# Funktionalität: 
-# authy.py
-- Holt OPS_KEY und OPS_SECRET aus der .env-Datei.
-- Fragt bei der EPO API ein Zugriffstoken an.
-- Gibt den Token zurück oder zeigt Fehler bei ungültigen Zugangsdaten.
+## IPC Code Examples for Patent Professionals
 
-# ipc_query.py
-- Sendet eine Suchanfrage mit dem IPC-Code an die EPO API.
-- Gibt die Trefferanzahl und Antwortzeit aus.
-- Zeigt (wenn möglich) die ersten 10 Patentnummern.
+- `A61K*` - Pharmaceuticals, medicinal preparations
+- `H04L*` - Transmission of digital information
+- `G06F*` - Electric digital data processing
+- `C07D*` - Heterocyclic compounds (organic chemistry)
+- `B60L*` - Electric propulsion of vehicles
 
-# info:
-- Die EPO OPS API liefert maximal 10.000 Treffer pro Anfrage, um Serverlast zu begrenzen und Missbrauch zu vermeiden – auch wenn es in Wirklichkeit mehr Ergebnisse gäbe.
+## Files Overview
+
+- **`ipc_query_interactive_tutorial.ipynb`** - Interactive tutorial notebook (START HERE!)
+- **`ipc_query.py`** - Main search script
+- **`auth.py`** - Handles EPO API authentication
+- **`.env`** - Your API credentials (create this file)
+
+## Important Notes
+
+- The EPO OPS API returns maximum 10,000 results per query to prevent server overload
+- Response times vary based on query complexity and server load
+- Large result sets may take longer to process
+
+## Support
+
+For Patent Information Experts: The interactive Jupyter notebook provides the most user-friendly experience with detailed explanations of each step.

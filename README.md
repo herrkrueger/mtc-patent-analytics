@@ -1,4 +1,4 @@
-# MTC Patent Analytics Toolkit
+# mtc.berlin Patent Analytics Toolkit
 
 A comprehensive collection of Jupyter notebooks and Python tools for patent information analysis, designed for patent information professionals, PATLIB staff, and patent office personnel. This repository provides practical examples and reusable code for working with EPO data sources and patent analytics workflows.
 

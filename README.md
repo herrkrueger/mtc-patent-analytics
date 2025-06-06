@@ -38,8 +38,17 @@ PATSTAT-based IPC subclass analysis tools:
 - Jupyter notebooks for classification trend analysis
 - Documentation for PATSTAT IPC workflows
 
+### `/ipc-browser/`
+Flask-based web application for interactive patent classification browsing (Credit: Tatjana, Johnny, and Marc):
+- **Python Flask web application** with hierarchical classification tree visualization
+- **Interactive tree interface** for exploring IPC classification structures
+- **Database-driven approach** using SQLite for classification data storage
+- **Responsive web interface** with dynamic tree navigation
+- **Scalable architecture** for patent classification exploration
+- Developed 2019-2020 as a successful proof-of-concept for classification visualization
+
 ### `/ipc-tree-explorer/`
-Interactive web application for exploring patent classification hierarchies (Credit: Matze):
+Modern SvelteKit-based web application for exploring patent classification hierarchies (Credit: Matze):
 - **SvelteKit-based visualization tool** with multiple view modes
 - **Radial tree visualization** for hierarchical IPC/CPC exploration
 - **Sankey flow diagrams** showing classification relationships
@@ -102,6 +111,7 @@ This toolkit represents ongoing work in patent analytics education and tool deve
 
 ## Credits
 
+- **IPC Browser**: Developed by Tatjana Stojadinovic, Johnny Debray, and Marc Haus (2019-2020)
 - **IPC Tree Explorer**: Developed by Matze
 - **Family Tree Tools**: Contributed by Anonymous EPO Patent Examiner
 - **Training Materials**: Provided by EPO (European Patent Office) and WIPO (World Intellectual Property Organization)

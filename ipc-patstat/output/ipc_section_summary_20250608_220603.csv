@@ -1,0 +1,9 @@
+ipc_section,ipc_section_name,subclasses_count,total_patents,granted_patents,unique_families,avg_grant_rate,avg_citations
+B,Performing Operations; Transporting,170,68618663,45889560,28756264,66.47,7.8
+A,Human Necessities,84,60280100,33701833,17457394,63.1,10.96
+H,Electricity,54,59337950,35790412,19145689,61.38,14.89
+G,Physics,87,56179111,31317754,23427274,57.81,13.05
+C,Chemistry; Metallurgy,91,55734981,31774072,12926307,61.24,13.75
+F,Mechanical Engineering; Lighting; Heating; Weapons; Blasting,100,32205818,21541633,14055747,65.79,7.34
+E,Fixed Constructions,31,12913604,8987287,6657249,69.38,4.79
+D,Textiles; Paper,39,5820992,3565341,2018548,65.28,7.81

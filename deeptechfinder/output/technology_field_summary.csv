@@ -1,0 +1,641 @@
+Technical_field,Patent_Count,University_Count,Grant_Rate,Spinout_Rate,Activity_Span
+Other,8498,100,46.4,51.4,44
+Oncology - treatment: Immunotherapy,153,29,36.6,22.9,30
+Oncology - cancer models: Cancer models,144,35,35.4,40.3,26
+Oncology - treatment: Targeted chemotherapy,125,38,31.2,50.4,27
+Oncology - diagnostics: Biopsies,122,34,30.3,50.8,21
+Oncology - diagnostics: Imaging,72,25,40.3,61.1,20
+Clean energy - storage: Lithium and lithium-ion,66,19,51.5,72.7,21
+Smart industry - enabling: User interface,64,7,28.1,15.6,19
+"Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",55,22,21.8,36.4,20
+Oncology - diagnostics: Personalised medicine,53,18,30.2,35.8,18
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",47,22,31.9,29.8,17
+Smart industry - applications: Healthcare,44,19,40.9,63.6,18
+Oncology - treatment: Classical chemotherapy,41,23,31.7,29.3,22
+Clean energy - grid: Physical Grid,33,16,39.4,57.6,37
+Clean energy - production: Electrolysis,32,10,31.2,68.8,11
+Plastics: Alternative Plastics,31,20,45.2,38.7,20
+Quantum: Quantum,31,15,32.3,61.3,21
+Oncology - treatment: Gene therapy,29,14,27.6,27.6,22
+Smart industry - core: IT hardware,29,12,44.8,34.5,18
+Water Tech: Water treatment,28,18,50.0,53.6,20
+Oncology - treatment: Hormonal therapy,27,17,48.1,37.0,19
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",24,11,20.8,58.3,19
+Smart industry - core: Connectivity,23,11,69.6,60.9,16
+Clean energy - end use: Carbon capture & storage,21,13,33.3,71.4,21
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",20,9,35.0,60.0,20
+Clean energy - production: Solar systems,19,12,42.1,63.2,15
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",18,6,44.4,22.2,14
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",17,9,41.2,35.3,13
+"Oncology - diagnostics: Imaging,Oncology - treatment: Radiotherapy",16,4,18.8,87.5,21
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",16,6,25.0,25.0,21
+"Oncology - treatment: Alternative treatments,Oncology - treatment: Immunotherapy",14,5,42.9,50.0,11
+Clean energy - storage: Supercapacitors,14,9,28.6,85.7,22
+"Oncology - treatment: Radiotherapy,Oncology - diagnostics: Imaging",13,5,38.5,84.6,14
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies",13,5,38.5,15.4,23
+"Smart industry - enabling: Data management,Smart industry - applications: Healthcare",12,8,16.7,41.7,14
+"Oncology - ICT: Healthcare informatics,Oncology - diagnostics: Imaging",12,10,41.7,58.3,24
+Clean energy - grid: Smart Grid,12,9,16.7,50.0,12
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",12,4,58.3,16.7,13
+Oncology - treatment: Non-coding nucleic acids,12,7,33.3,41.7,19
+"Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models",11,8,45.5,45.5,20
+"Clean energy - storage: Supercapacitors,Clean energy - storage: Lithium and lithium-ion",10,4,60.0,30.0,8
+"Smart industry - core: IT hardware,Smart industry - enabling: User interface",10,2,30.0,10.0,7
+Clean energy - end use: Green steel,10,7,40.0,80.0,17
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Alternative treatments",10,2,50.0,100.0,15
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy",10,7,20.0,60.0,15
+"Smart industry - applications: Healthcare,Smart industry - enabling: Data management",10,5,20.0,40.0,12
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies",10,6,30.0,20.0,16
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy",9,4,33.3,44.4,6
+Plastics: Recycling,9,7,33.3,33.3,17
+"Smart industry - enabling: Data management,Smart industry - applications: Industrial applications",9,7,77.8,55.6,21
+"Smart industry - enabling: Data security,Smart industry - core: Connectivity",9,5,55.6,77.8,13
+Smart industry - applications: Consumer goods,9,7,0.0,11.1,20
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy",9,7,33.3,55.6,13
+"Smart industry - core: Connectivity,Smart industry - enabling: Data security",9,6,55.6,55.6,16
+"Smart industry - applications: Vehicles,Smart industry - enabling: Data management",8,7,37.5,50.0,12
+Oncology - treatment: Alternative treatments,8,6,25.0,25.0,17
+Space Technologies: Propulsion,8,4,62.5,12.5,6
+"Smart industry - enabling: User interface,Smart industry - core: IT hardware",8,2,25.0,0.0,6
+Smart industry - enabling: Geo-positioning,8,6,62.5,50.0,10
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy",8,7,37.5,62.5,19
+Oncology - treatment: Radiotherapy,7,3,57.1,85.7,28
+Clean energy - end use: Green cement,7,3,100.0,71.4,10
+"Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine",7,4,42.9,71.4,10
+Oncology - treatment: Surgery,7,5,57.1,71.4,18
+Smart industry - enabling: Core AI,7,3,14.3,0.0,8
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies",7,4,57.1,14.3,24
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine",7,3,57.1,14.3,22
+Clean energy - storage: Other chemistries,7,6,0.0,57.1,12
+"Clean energy - grid: Smart Grid,Clean energy - grid: Physical Grid",7,7,14.3,28.6,15
+"Smart industry - applications: Industrial applications,Smart industry - enabling: Data management",6,5,33.3,50.0,11
+"Clean energy - storage: Redox flow,Clean energy - grid: Physical Grid",6,4,33.3,66.7,5
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy",6,6,66.7,66.7,8
+"Oncology - diagnostics: Imaging,Oncology - ICT: Healthcare informatics",6,5,50.0,16.7,14
+Smart industry - core: IT Software,6,5,33.3,83.3,16
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Supercapacitors",6,2,83.3,0.0,5
+"Smart industry - enabling: Geo-positioning,Smart industry - core: IT hardware",6,6,50.0,83.3,9
+"Smart industry - core: IT Software,Smart industry - core: Connectivity",6,5,83.3,100.0,12
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine",6,3,16.7,66.7,6
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy",6,5,33.3,50.0,10
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies",5,2,20.0,40.0,12
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",5,5,20.0,20.0,5
+Plastics: Recovery,5,5,60.0,20.0,14
+Oncology - ICT: Healthcare informatics,5,4,20.0,60.0,19
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies",5,5,20.0,80.0,17
+Smart industry - enabling: Data management,5,5,20.0,40.0,12
+"Smart industry - core: Connectivity,Smart industry - core: IT Software",5,2,60.0,80.0,15
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy",5,4,20.0,100.0,6
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Solid state",5,3,20.0,60.0,1
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy",4,2,75.0,0.0,8
+"Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models",4,2,50.0,25.0,6
+"Smart industry - core: IT hardware,Smart industry - applications: Healthcare",4,2,50.0,0.0,10
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",4,3,25.0,25.0,13
+"Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy",4,3,25.0,75.0,8
+"Smart industry - core: IT hardware,Smart industry - enabling: Data management",4,3,50.0,100.0,11
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Hormonal therapy",4,2,25.0,25.0,8
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy",4,2,50.0,25.0,4
+Oncology - ICT: Bioinformatics,4,4,0.0,25.0,8
+"Oncology - treatment: Other physical treatments,Oncology - treatment: Targeted chemotherapy",4,3,0.0,0.0,1
+"Clean energy - storage: Solid state,Clean energy - storage: Lithium and lithium-ion",4,2,25.0,50.0,9
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy",4,3,25.0,50.0,10
+Water Tech: Protection against water,4,3,75.0,25.0,12
+"Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine",4,2,75.0,75.0,8
+"Smart industry - enabling: Data management,Smart industry - applications: Vehicles",4,4,50.0,0.0,13
+Oncology - treatment: Other physical treatments,4,3,25.0,25.0,15
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy",4,4,75.0,50.0,18
+"Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy",3,3,66.7,66.7,14
+"Clean energy - grid: Physical Grid,Clean energy - grid: Smart Grid",3,3,33.3,66.7,6
+"Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Non-coding nucleic acids",3,3,33.3,66.7,2
+Smart industry - applications: Business services,3,3,66.7,100.0,10
+Clean energy - grid: Smart EV,3,3,0.0,66.7,15
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy",3,2,66.7,100.0,2
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Personalised medicine",3,2,0.0,33.3,19
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Other chemistries",3,2,66.7,66.7,5
+"Smart industry - applications: Consumer goods,Smart industry - applications: Vehicles,Smart industry - enabling: Geo-positioning",3,3,33.3,33.3,9
+"Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Biopsies",3,2,66.7,0.0,5
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy",3,3,33.3,33.3,4
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models",3,2,0.0,100.0,10
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",3,2,33.3,100.0,11
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy",3,2,0.0,66.7,13
+"Smart industry - applications: Healthcare,Oncology - diagnostics: Imaging",3,3,0.0,100.0,2
+"Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models",3,3,33.3,0.0,10
+"Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies",3,3,33.3,33.3,10
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy",3,3,0.0,0.0,6
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Radiotherapy,Oncology - diagnostics: Imaging",3,3,0.0,66.7,13
+"Oncology - ICT: Bioinformatics,Oncology - diagnostics: Biopsies",3,2,33.3,0.0,5
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Alternative treatments",3,1,100.0,100.0,1
+"Oncology - cancer models: Cancer models,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",3,2,33.3,66.7,3
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",3,3,33.3,66.7,9
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",3,3,33.3,33.3,10
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models",3,3,0.0,33.3,14
+"Smart industry - core: IT Software,Smart industry - applications: Consumer goods",3,2,0.0,33.3,15
+"Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",3,2,33.3,0.0,3
+"Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy",3,2,0.0,0.0,8
+"Oncology - cancer models: Cancer models,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",3,3,66.7,33.3,7
+"Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy",3,2,66.7,66.7,4
+Smart industry - applications: Vehicles,3,3,33.3,66.7,8
+Clean energy - storage: Solid state,3,3,33.3,33.3,11
+"Oncology - cancer models: Cancer models,Oncology - treatment: Hormonal therapy",3,3,33.3,33.3,6
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",2,2,0.0,50.0,16
+"Clean energy - grid: Physical Grid,Clean energy - storage: Redox flow",2,1,50.0,100.0,3
+"Smart industry - applications: Healthcare,Smart industry - applications: Consumer goods",2,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy",2,2,0.0,0.0,4
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy",2,1,50.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",2,2,100.0,0.0,5
+"Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy",2,1,0.0,0.0,0
+"Smart industry - core: IT hardware,Smart industry - enabling: Geo-positioning",2,2,50.0,50.0,9
+"Clean energy - grid: Physical Grid,Clean energy - storage: Mechanical",2,1,100.0,100.0,1
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",2,2,0.0,50.0,12
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy",2,2,50.0,100.0,18
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Classical chemotherapy",2,2,0.0,50.0,4
+Smart industry - applications: Home,2,2,50.0,50.0,0
+"Smart industry - applications: Home,Smart industry - applications: Consumer goods,Smart industry - core: Connectivity",2,1,100.0,0.0,4
+Smart industry - applications: Agriculture,2,1,50.0,100.0,1
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy",2,2,0.0,50.0,8
+"Smart industry - applications: Consumer goods,Smart industry - applications: Healthcare",2,2,0.0,0.0,5
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine",2,2,0.0,100.0,2
+"Smart industry - enabling: Data management,Smart industry - applications: Healthcare,Smart industry - applications: Industrial applications",2,1,0.0,0.0,1
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",2,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",2,1,0.0,0.0,1
+"Smart industry - applications: Consumer goods,Smart industry - core: Connectivity",2,2,0.0,100.0,4
+"Smart industry - applications: Consumer goods,Smart industry - core: Connectivity,Smart industry - core: IT Software",2,1,100.0,100.0,2
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",2,2,50.0,100.0,23
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy",2,1,50.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - cancer models: Cancer models",2,2,0.0,50.0,2
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy",2,1,100.0,0.0,0
+Water Tech: Potable water harvesting,2,2,50.0,0.0,21
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",2,2,50.0,0.0,13
+"Oncology - treatment: Radiotherapy,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Imaging",2,2,50.0,50.0,5
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",2,2,0.0,100.0,2
+"Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",2,2,50.0,50.0,11
+"Smart industry - applications: Business services,Smart industry - core: Connectivity,Smart industry - core: IT Software",2,1,0.0,100.0,1
+"Clean energy - grid: Smart Grid,Smart industry - applications: Infrastructure,Smart industry - core: Connectivity,Smart industry - enabling: Data management",2,1,50.0,0.0,2
+"Smart industry - applications: Home,Smart industry - core: Connectivity",2,1,50.0,100.0,1
+"Oncology - treatment: Alternative treatments,Oncology - treatment: Classical chemotherapy",2,1,100.0,100.0,14
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy",2,2,0.0,50.0,6
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Radiotherapy,Oncology - diagnostics: Imaging",2,2,100.0,50.0,4
+"Oncology - diagnostics: Imaging,Oncology - treatment: Hormonal therapy",2,2,0.0,0.0,1
+"Smart industry - core: Connectivity,Quantum: Quantum,Smart industry - enabling: Data security",2,1,0.0,100.0,14
+"Oncology - treatment: Gene therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Non-coding nucleic acids",2,1,0.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - applications: Consumer goods",2,2,50.0,50.0,4
+"Oncology - treatment: Non-coding nucleic acids,Oncology - cancer models: Cancer models,Oncology - treatment: Gene therapy",2,2,50.0,100.0,7
+Smart industry - enabling: Data security,2,2,50.0,100.0,6
+"Oncology - diagnostics: Biopsies,Smart industry - applications: Healthcare",2,1,50.0,0.0,1
+"Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Biopsies",2,1,50.0,0.0,1
+"Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",2,2,50.0,50.0,7
+"Oncology - treatment: Gene therapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Non-coding nucleic acids",2,2,50.0,50.0,6
+"Oncology - diagnostics: Imaging,Oncology - treatment: Immunotherapy",2,1,50.0,100.0,1
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Imaging",2,2,0.0,100.0,7
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine",2,1,50.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Other physical treatments",2,2,0.0,0.0,1
+"Oncology - diagnostics: Biopsies,Oncology - ICT: Bioinformatics,Oncology - treatment: Immunotherapy",2,1,100.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Gene therapy",2,2,50.0,50.0,15
+"Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Non-coding nucleic acids",2,2,50.0,50.0,4
+"Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy",2,2,0.0,0.0,2
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies",2,2,100.0,100.0,7
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy",2,2,0.0,0.0,10
+"Smart industry - core: Connectivity,Smart industry - enabling: Power supply",2,2,100.0,50.0,6
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",2,2,50.0,50.0,2
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine",2,2,0.0,50.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine",2,2,50.0,0.0,9
+Clean energy - production: Offshore wind energy,2,2,50.0,50.0,6
+Oncology - treatment: Mitigating side-effects,2,2,100.0,50.0,5
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Immunotherapy",2,1,0.0,100.0,3
+"Plastics: Recycling,Plastics: Recovery",2,2,50.0,50.0,1
+"Clean energy - storage: Other chemistries,Clean energy - storage: Lithium and lithium-ion",2,2,50.0,50.0,2
+Clean energy - storage: Battery recycling,2,1,100.0,100.0,2
+"Smart industry - core: IT hardware,Smart industry - applications: Consumer goods,Smart industry - applications: Business services",2,2,0.0,50.0,6
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Alternative treatments",2,2,50.0,50.0,3
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy",2,2,50.0,50.0,10
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy",2,2,50.0,100.0,1
+"Oncology - diagnostics: Imaging,Oncology - treatment: Targeted chemotherapy",2,2,0.0,0.0,1
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy",2,2,0.0,0.0,10
+"Oncology - cancer models: Cancer models,Oncology - treatment: Non-coding nucleic acids",2,2,0.0,50.0,0
+"Plastics: Alternative Plastics,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",2,2,50.0,50.0,1
+"Oncology - diagnostics: Imaging,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy",2,2,50.0,100.0,17
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - treatment: Radiotherapy,Oncology - diagnostics: Imaging,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Hormonal therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Other physical treatments",1,1,0.0,100.0,0
+"Oncology - treatment: Radiotherapy,Oncology - diagnostics: Imaging,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Hormonal therapy,Oncology - treatment: Gene therapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,100.0,0
+"Oncology - treatment: Radiotherapy,Oncology - diagnostics: Imaging,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Imaging,Oncology - treatment: Gene therapy",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - ICT: Healthcare informatics,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Other physical treatments,Oncology - diagnostics: Imaging,Oncology - treatment: Radiotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Imaging",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Imaging,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Classical chemotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Radiotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - ICT: Bioinformatics,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy",1,1,100.0,0.0,0
+"Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Imaging",1,1,100.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Biopsies",1,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Radiotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy",1,1,0.0,0.0,0
+"Oncology - treatment: Radiotherapy,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Imaging",1,1,0.0,100.0,0
+"Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Imaging",1,1,0.0,100.0,0
+"Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Surgery,Smart industry - applications: Healthcare",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Gene therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",1,1,100.0,0.0,0
+"Smart industry - enabling: Data management,Smart industry - applications: Business services,Smart industry - core: Connectivity,Smart industry - applications: Home,Smart industry - applications: Healthcare",1,1,100.0,0.0,0
+"Smart industry - enabling: Data management,Smart industry - applications: Business services",1,1,0.0,0.0,0
+"Smart industry - enabling: Core AI,Smart industry - enabling: Data security,Smart industry - core: Connectivity,Quantum: Quantum,Smart industry - core: IT hardware",1,1,0.0,100.0,0
+"Smart industry - enabling: Core AI,Smart industry - enabling: Data management,Smart industry - applications: Healthcare",1,1,0.0,0.0,0
+"Smart industry - enabling: 3D support systems,Smart industry - applications: Industrial applications,Smart industry - applications: Healthcare",1,1,0.0,100.0,0
+"Smart industry - enabling: 3D support systems,Smart industry - applications: Healthcare",1,1,0.0,0.0,0
+"Smart industry - enabling: 3D support systems,Oncology - treatment: Surgery,Smart industry - applications: Healthcare",1,1,0.0,100.0,0
+Smart industry - enabling: 3D support systems,1,1,100.0,0.0,0
+"Smart industry - core: IT hardware,Smart industry - enabling: Data security,Smart industry - core: IT Software",1,1,0.0,100.0,0
+"Smart industry - core: IT hardware,Smart industry - core: IT Software",1,1,0.0,100.0,0
+"Smart industry - core: IT hardware,Smart industry - core: Connectivity,Smart industry - core: IT Software",1,1,0.0,100.0,0
+"Smart industry - core: IT hardware,Smart industry - applications: Consumer goods",1,1,100.0,100.0,0
+"Smart industry - core: IT hardware,Smart industry - applications: Business services,Smart industry - applications: Consumer goods",1,1,0.0,100.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Hormonal therapy,Oncology - treatment: Gene therapy",1,1,0.0,0.0,0
+"Smart industry - core: IT Software,Smart industry - enabling: Power supply,Smart industry - core: Connectivity",1,1,100.0,0.0,0
+"Smart industry - core: IT Software,Smart industry - enabling: Data management,Smart industry - applications: Business services",1,1,100.0,100.0,0
+"Smart industry - core: IT Software,Smart industry - core: IT hardware",1,1,0.0,100.0,0
+"Smart industry - core: IT Software,Smart industry - applications: Consumer goods,Smart industry - enabling: Core AI",1,1,0.0,0.0,0
+"Smart industry - core: IT Software,Smart industry - applications: Business services,Smart industry - enabling: Data management,Smart industry - applications: Consumer goods,Smart industry - core: Connectivity",1,1,0.0,100.0,0
+"Smart industry - core: IT Software,Smart industry - applications: Business services,Smart industry - core: IT hardware,Smart industry - applications: Consumer goods,Smart industry - enabling: Data security",1,1,100.0,100.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: Geo-positioning,Smart industry - core: IT Software,Smart industry - applications: Consumer goods",1,1,100.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: Geo-positioning,Smart industry - applications: Consumer goods",1,1,0.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: Geo-positioning",1,1,0.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: Data security,Smart industry - enabling: Core AI",1,1,0.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: Data security,Smart industry - core: IT Software",1,1,0.0,100.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: Data security,Quantum: Quantum",1,1,0.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: Core AI,Smart industry - enabling: Data security",1,1,100.0,100.0,0
+"Smart industry - core: Connectivity,Smart industry - enabling: 3D support systems,Smart industry - applications: Healthcare",1,1,0.0,0.0,0
+"Smart industry - core: IT hardware,Oncology - diagnostics: Imaging,Smart industry - applications: Healthcare",1,1,0.0,0.0,0
+"Water Tech: Water treatment,Water Tech: Potable water harvesting",1,1,0.0,0.0,0
+"Water Tech: Potable water harvesting,Water Tech: Water treatment",1,1,0.0,0.0,0
+"Water Tech: Potable water harvesting,Water Tech: Efficient water use",1,1,0.0,0.0,0
+"Water Tech: Efficient water use,Clean energy - production: Offshore wind energy",1,1,100.0,0.0,0
+Water Tech: Efficient water use,1,1,100.0,0.0,0
+"Smart industry - enabling: User interface,Smart industry - enabling: Geo-positioning",1,1,0.0,0.0,0
+"Smart industry - enabling: User interface,Smart industry - enabling: Data management,Smart industry - core: IT hardware",1,1,0.0,0.0,0
+"Smart industry - enabling: User interface,Smart industry - enabling: 3D support systems",1,1,0.0,100.0,0
+"Smart industry - enabling: User interface,Smart industry - applications: Healthcare,Smart industry - core: IT hardware",1,1,0.0,0.0,0
+"Smart industry - enabling: Safety,Smart industry - applications: Vehicles",1,1,100.0,0.0,0
+"Smart industry - enabling: Power supply,Smart industry - core: IT Software,Smart industry - core: Connectivity",1,1,0.0,0.0,0
+"Smart industry - enabling: Geo-positioning,Smart industry - enabling: Data management,Smart industry - applications: Vehicles,Smart industry - core: IT Software,Smart industry - applications: Consumer goods,Smart industry - enabling: User interface",1,1,100.0,100.0,0
+"Smart industry - enabling: Geo-positioning,Smart industry - core: Connectivity",1,1,100.0,0.0,0
+"Smart industry - enabling: Data management,Smart industry - applications: Consumer goods",1,1,100.0,100.0,0
+"Smart industry - enabling: Geo-positioning,Smart industry - applications: Vehicles,Smart industry - core: Connectivity,Smart industry - applications: Consumer goods",1,1,0.0,100.0,0
+"Smart industry - enabling: Geo-positioning,Smart industry - applications: Healthcare,Smart industry - core: IT hardware,Smart industry - enabling: Data management,Smart industry - applications: Consumer goods",1,1,100.0,0.0,0
+"Smart industry - enabling: Geo-positioning,Smart industry - applications: Consumer goods,Smart industry - core: Connectivity,Smart industry - applications: Vehicles",1,1,0.0,100.0,0
+"Smart industry - enabling: Geo-positioning,Smart industry - applications: Consumer goods,Smart industry - applications: Vehicles",1,1,0.0,100.0,0
+"Smart industry - enabling: Data security,Smart industry - core: Connectivity,Smart industry - enabling: Data management",1,1,0.0,0.0,0
+"Smart industry - enabling: Data security,Smart industry - applications: Business services,Smart industry - core: Connectivity",1,1,0.0,100.0,0
+"Smart industry - enabling: Data management,Smart industry - enabling: User interface,Smart industry - applications: Industrial applications",1,1,100.0,0.0,0
+"Smart industry - enabling: Data management,Smart industry - enabling: Core AI,Smart industry - applications: Vehicles",1,1,100.0,0.0,0
+"Smart industry - enabling: Data management,Smart industry - core: IT hardware",1,1,0.0,0.0,0
+"Smart industry - enabling: Data management,Smart industry - core: IT Software,Smart industry - applications: Consumer goods,Smart industry - applications: Home",1,1,100.0,100.0,0
+"Smart industry - enabling: Data management,Smart industry - core: Connectivity,Clean energy - grid: Physical Grid,Smart industry - applications: Infrastructure,Clean energy - grid: Smart Grid",1,1,0.0,100.0,0
+"Smart industry - enabling: Data management,Smart industry - applications: Vehicles,Smart industry - enabling: Core AI,Smart industry - applications: Industrial applications,Smart industry - applications: Business services",1,1,0.0,0.0,0
+"Smart industry - enabling: Data management,Smart industry - applications: Industrial applications,Smart industry - core: IT Software",1,1,100.0,100.0,0
+"Smart industry - enabling: Data management,Smart industry - applications: Healthcare,Oncology - diagnostics: Imaging",1,1,0.0,100.0,0
+"Smart industry - enabling: Geo-positioning,Smart industry - applications: Vehicles,Smart industry - core: IT hardware",1,1,100.0,0.0,0
+"Smart industry - applications: Consumer goods,Smart industry - enabling: Data management,Smart industry - applications: Healthcare",1,1,100.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - core: IT hardware,Smart industry - core: IT Software,Smart industry - core: Connectivity",1,1,0.0,0.0,0
+"Smart industry - applications: Consumer goods,Smart industry - core: IT Software,Smart industry - applications: Home",1,1,100.0,0.0,0
+"Smart industry - applications: Consumer goods,Smart industry - core: Connectivity,Smart industry - enabling: Data security",1,1,0.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - core: Connectivity,Smart industry - core: IT hardware,Smart industry - applications: Business services",1,1,0.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - applications: Vehicles",1,1,100.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - applications: Healthcare,Smart industry - enabling: 3D support systems,Smart industry - enabling: Data management,Smart industry - core: IT hardware",1,1,0.0,0.0,0
+"Smart industry - applications: Consumer goods,Smart industry - applications: Healthcare,Oncology - diagnostics: Imaging,Smart industry - enabling: 3D support systems,Plastics: Alternative Plastics",1,1,0.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - applications: Healthcare,Oncology - ICT: Healthcare informatics",1,1,0.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - applications: Business services",1,1,0.0,100.0,0
+"Smart industry - applications: Consumer goods,Oncology - treatment: Mitigating side-effects,Smart industry - applications: Healthcare",1,1,100.0,100.0,0
+"Smart industry - applications: Consumer goods,Oncology - ICT: Healthcare informatics,Smart industry - applications: Healthcare",1,1,0.0,100.0,0
+"Smart industry - applications: Business services,Smart industry - enabling: Data management,Smart industry - applications: Industrial applications,Smart industry - enabling: Safety,Smart industry - applications: Home,Smart industry - core: Connectivity",1,1,0.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - core: IT Software,Smart industry - enabling: Data security",1,1,100.0,100.0,0
+"Smart industry - applications: Business services,Smart industry - core: IT hardware,Smart industry - applications: Consumer goods",1,1,100.0,100.0,0
+"Smart industry - applications: Business services,Smart industry - core: Connectivity,Smart industry - enabling: User interface,Smart industry - core: IT hardware",1,1,0.0,100.0,0
+"Smart industry - applications: Business services,Smart industry - core: Connectivity",1,1,0.0,100.0,0
+"Smart industry - applications: Business services,Smart industry - applications: Home,Smart industry - core: Connectivity",1,1,100.0,0.0,0
+"Smart industry - applications: Business services,Smart industry - applications: Home,Smart industry - applications: Healthcare,Smart industry - core: Connectivity",1,1,0.0,100.0,0
+"Smart industry - applications: Business services,Smart industry - applications: Consumer goods,Smart industry - core: IT hardware,Smart industry - core: Connectivity",1,1,100.0,100.0,0
+"Smart industry - applications: Business services,Smart industry - applications: Consumer goods,Smart industry - core: IT Software,Smart industry - enabling: Core AI,Smart industry - applications: Healthcare",1,1,0.0,0.0,0
+"Smart industry - applications: Business services,Smart industry - applications: Consumer goods,Smart industry - applications: Industrial applications,Smart industry - applications: Vehicles,Smart industry - applications: Infrastructure",1,1,0.0,100.0,0
+"Smart industry - applications: Agriculture,Water Tech: Efficient water use",1,1,100.0,0.0,0
+"Quantum: Quantum,Smart industry - core: Connectivity,Smart industry - enabling: Data security",1,1,0.0,100.0,0
+"Plastics: Alternative Plastics,Plastics: Recovery",1,1,0.0,0.0,0
+"Plastics: Alternative Plastics,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Targeted chemotherapy,Smart industry - applications: Consumer goods,Smart industry - applications: Business services,Oncology - cancer models: Cancer models,Smart industry - enabling: Data management,Oncology - ICT: Bioinformatics",1,1,0.0,100.0,0
+"Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Smart industry - applications: Business services,Smart industry - enabling: Data management",1,1,0.0,100.0,0
+"Smart industry - core: Connectivity,Smart industry - applications: Infrastructure,Clean energy - grid: Smart Grid,Smart industry - enabling: Data management,Clean energy - grid: Physical Grid",1,1,100.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - applications: Consumer goods,Smart industry - enabling: Power supply",1,1,0.0,0.0,0
+"Smart industry - core: Connectivity,Smart industry - applications: Business services,Smart industry - applications: Home",1,1,100.0,100.0,0
+"Smart industry - core: Connectivity,Clean energy - grid: Physical Grid,Smart industry - enabling: Data management,Clean energy - grid: Smart Grid,Smart industry - applications: Infrastructure",1,1,100.0,100.0,0
+"Smart industry - applications: Vehicles,Smart industry - enabling: Data management,Smart industry - applications: Infrastructure",1,1,0.0,0.0,0
+"Smart industry - applications: Vehicles,Smart industry - applications: Infrastructure,Smart industry - applications: Business services,Smart industry - applications: Consumer goods,Smart industry - applications: Industrial applications,Smart industry - enabling: Data management",1,1,0.0,100.0,0
+"Smart industry - applications: Infrastructure,Smart industry - enabling: Data management,Smart industry - applications: Vehicles",1,1,0.0,0.0,0
+"Smart industry - applications: Infrastructure,Smart industry - core: IT Software,Smart industry - core: Connectivity,Smart industry - applications: Business services,Smart industry - enabling: Data security,Smart industry - enabling: Data management",1,1,0.0,100.0,0
+"Smart industry - applications: Infrastructure,Smart industry - applications: Home,Smart industry - enabling: Data management,Smart industry - applications: Industrial applications",1,1,0.0,100.0,0
+Smart industry - applications: Infrastructure,1,1,0.0,100.0,0
+"Smart industry - applications: Industrial applications,Smart industry - enabling: 3D support systems,Smart industry - enabling: Data management",1,1,100.0,100.0,0
+"Smart industry - applications: Industrial applications,Smart industry - enabling: 3D support systems,Smart industry - applications: Healthcare",1,1,100.0,100.0,0
+"Smart industry - applications: Industrial applications,Smart industry - core: IT hardware,Smart industry - enabling: Safety,Smart industry - applications: Home,Smart industry - enabling: Data management",1,1,0.0,100.0,0
+"Smart industry - applications: Industrial applications,Smart industry - core: IT hardware,Smart industry - enabling: Data management",1,1,100.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - enabling: Data management,Smart industry - applications: Vehicles,Smart industry - core: Connectivity",1,1,100.0,100.0,0
+"Smart industry - applications: Home,Smart industry - applications: Business services,Smart industry - core: Connectivity",1,1,100.0,0.0,0
+"Smart industry - applications: Healthcare,Smart industry - enabling: User interface,Smart industry - enabling: Data management",1,1,0.0,100.0,0
+"Smart industry - applications: Healthcare,Smart industry - enabling: Safety,Smart industry - enabling: Data management,Smart industry - applications: Home,Smart industry - applications: Industrial applications",1,1,100.0,0.0,0
+"Smart industry - applications: Healthcare,Smart industry - enabling: Data management,Smart industry - applications: Consumer goods,Smart industry - enabling: Core AI",1,1,0.0,0.0,0
+"Smart industry - applications: Healthcare,Smart industry - enabling: Data management,Oncology - cancer models: Cancer models,Oncology - diagnostics: Imaging",1,1,100.0,0.0,0
+"Smart industry - applications: Healthcare,Smart industry - enabling: 3D support systems,Smart industry - enabling: User interface,Smart industry - applications: Industrial applications",1,1,100.0,100.0,0
+"Smart industry - applications: Healthcare,Smart industry - enabling: 3D support systems,Smart industry - enabling: User interface,Smart industry - applications: Consumer goods,Smart industry - enabling: Data management",1,1,0.0,100.0,0
+"Smart industry - applications: Healthcare,Smart industry - core: IT hardware",1,1,100.0,100.0,0
+"Smart industry - applications: Healthcare,Smart industry - applications: Industrial applications,Oncology - treatment: Surgery,Oncology - diagnostics: Imaging,Smart industry - enabling: 3D support systems,Smart industry - core: IT hardware",1,1,0.0,100.0,0
+"Smart industry - applications: Healthcare,Oncology - treatment: Mitigating side-effects,Smart industry - applications: Consumer goods",1,1,0.0,100.0,0
+"Smart industry - applications: Healthcare,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Smart industry - applications: Consumer goods,Smart industry - enabling: Data security,Smart industry - core: Connectivity",1,1,100.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - enabling: Data management,Smart industry - core: Connectivity,Smart industry - applications: Vehicles",1,1,100.0,100.0,0
+"Smart industry - applications: Consumer goods,Smart industry - enabling: Data management,Smart industry - core: Connectivity,Smart industry - applications: Business services,Smart industry - core: IT Software",1,1,0.0,100.0,0
+"Smart industry - applications: Industrial applications,Smart industry - applications: Healthcare,Smart industry - core: IT hardware",1,1,0.0,100.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Other physical treatments",1,1,100.0,0.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Immunotherapy,Oncology - treatment: Radiotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Radiotherapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Imaging,Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Surgery",1,1,0.0,100.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Imaging",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Water Tech: Water treatment,Plastics: Recovery",1,1,100.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy,Oncology - treatment: Hormonal therapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids",1,1,100.0,100.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Immunotherapy,Oncology - treatment: Alternative treatments",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Alternative treatments,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Alternative treatments,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Hormonal therapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine",1,1,0.0,100.0,0
+"Oncology - diagnostics: Biopsies,Oncology - ICT: Bioinformatics,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - ICT: Bioinformatics",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Smart industry - applications: Consumer goods,Oncology - diagnostics: Biopsies,Smart industry - enabling: Data management,Smart industry - applications: Business services,Smart industry - applications: Healthcare",1,1,100.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,100.0,0.0,0
+"Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - treatment: Alternative treatments,Oncology - treatment: Gene therapy",1,1,100.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Imaging",1,1,0.0,100.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Mitigating side-effects,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Imaging,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Gene therapy,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Other physical treatments,Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - treatment: Hormonal therapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy",1,1,0.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy",1,1,100.0,0.0,0
+"Oncology - diagnostics: Imaging,Smart industry - enabling: Data management,Oncology - treatment: Targeted chemotherapy,Oncology - ICT: Healthcare informatics",1,1,0.0,100.0,0
+"Oncology - diagnostics: Imaging,Smart industry - applications: Healthcare",1,1,100.0,0.0,0
+"Oncology - diagnostics: Imaging,Plastics: Alternative Plastics,Smart industry - enabling: 3D support systems,Smart industry - applications: Healthcare,Smart industry - applications: Consumer goods",1,1,0.0,100.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - diagnostics: Imaging,Oncology - treatment: Radiotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy",1,1,100.0,100.0,0
+"Oncology - ICT: Bioinformatics,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - ICT: Bioinformatics,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - ICT: Bioinformatics,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - ICT: Bioinformatics,Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - ICT: Bioinformatics,Oncology - ICT: Healthcare informatics",1,1,0.0,0.0,0
+"Clean energy - storage: Supercapacitors,Clean energy - production: Solar systems",1,1,0.0,100.0,0
+"Clean energy - storage: Solid state,Clean energy - storage: Other chemistries",1,1,0.0,100.0,0
+"Clean energy - storage: Sodium-ion,Clean energy - storage: Other chemistries,Clean energy - grid: Physical Grid,Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Solid state",1,1,0.0,100.0,0
+"Clean energy - storage: Sodium-ion,Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Other chemistries,Clean energy - grid: Physical Grid",1,1,0.0,100.0,0
+Clean energy - storage: Redox flow,1,1,0.0,0.0,0
+"Clean energy - storage: Other chemistries,Clean energy - storage: Sodium-ion,Clean energy - storage: Lithium and lithium-ion,Clean energy - grid: Physical Grid",1,1,100.0,100.0,0
+"Clean energy - storage: Other chemistries,Clean energy - grid: Physical Grid,Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Sodium-ion",1,1,0.0,100.0,0
+Clean energy - storage: Mechanical,1,1,100.0,0.0,0
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Supercapacitors,Clean energy - storage: Solid state,Clean energy - storage: Other chemistries",1,1,0.0,100.0,0
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Other chemistries,Clean energy - grid: Physical Grid,Clean energy - storage: Sodium-ion",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - grid: Physical Grid,Clean energy - storage: Other chemistries,Clean energy - storage: Sodium-ion,Clean energy - storage: Supercapacitors",1,1,100.0,100.0,0
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - grid: Physical Grid",1,1,100.0,100.0,0
+"Clean energy - storage: Battery recycling,Clean energy - end use: Green steel,Clean energy - storage: Lithium and lithium-ion",1,1,0.0,100.0,0
+"Clean energy - production: Solar systems,Clean energy - storage: Supercapacitors",1,1,0.0,100.0,0
+"Clean energy - production: Offshore wind energy,Clean energy - grid: Physical Grid",1,1,0.0,100.0,0
+"Clean energy - production: Electrolysis,Clean energy - storage: Other chemistries",1,1,0.0,100.0,0
+"Clean energy - production: Electrolysis,Clean energy - storage: Lithium and lithium-ion",1,1,100.0,100.0,0
+"Clean energy - grid: Smart Grid,Smart industry - core: IT Software,Smart industry - core: Connectivity",1,1,100.0,100.0,0
+"Clean energy - grid: Smart Grid,Clean energy - production: Solar systems,Clean energy - grid: Physical Grid",1,1,0.0,0.0,0
+"Clean energy - grid: Smart Grid,Clean energy - grid: Physical Grid,Clean energy - storage: Mechanical",1,1,100.0,0.0,0
+"Clean energy - grid: Smart EV,Clean energy - grid: Smart Grid,Clean energy - grid: Physical Grid",1,1,0.0,100.0,0
+"Clean energy - grid: Physical Grid,Smart industry - core: Connectivity,Smart industry - applications: Vehicles,Clean energy - grid: Smart Grid,Smart industry - enabling: Data management,Smart industry - applications: Infrastructure,Clean energy - grid: Smart EV",1,1,0.0,0.0,0
+"Clean energy - grid: Physical Grid,Clean energy - storage: Lithium and lithium-ion",1,1,100.0,0.0,0
+"Clean energy - end use: Green steel,Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Battery recycling",1,1,0.0,100.0,0
+"Clean energy - end use: Green cement,Clean energy - end use: Carbon capture & storage",1,1,0.0,0.0,0
+"Clean energy - storage: Lithium and lithium-ion,Clean energy - storage: Battery recycling",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Mitigating side-effects",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine",1,1,100.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Gene therapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,100.0,0
+"Oncology - ICT: Bioinformatics,Oncology - treatment: Targeted chemotherapy,Smart industry - enabling: Data management,Smart industry - applications: Consumer goods,Smart industry - applications: Business services",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy",1,1,0.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy",1,1,0.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies",1,1,0.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies,Oncology - ICT: Bioinformatics",1,1,100.0,100.0,0
+"Oncology - ICT: Healthcare informatics,Smart industry - core: IT hardware,Smart industry - applications: Healthcare,Oncology - diagnostics: Imaging",1,1,100.0,0.0,0
+"Oncology - ICT: Healthcare informatics,Oncology - ICT: Bioinformatics,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - ICT: Bioinformatics,Smart industry - enabling: Data management,Smart industry - applications: Consumer goods,Smart industry - applications: Business services,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - cancer models: Cancer models,Oncology - treatment: Gene therapy",1,1,100.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Alternative treatments,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Alternative treatments,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies,Oncology - ICT: Bioinformatics",1,1,0.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - ICT: Bioinformatics,Oncology - diagnostics: Biopsies,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - ICT: Bioinformatics",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Classical chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - ICT: Bioinformatics",1,1,100.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Radiotherapy,Oncology - diagnostics: Imaging",1,1,100.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Radiotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy",1,1,100.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Mitigating side-effects,Oncology - treatment: Classical chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy",1,1,0.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Alternative treatments,Oncology - treatment: Immunotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Gene therapy,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Biopsies,Oncology - treatment: Gene therapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Non-coding nucleic acids,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Mitigating side-effects,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Mitigating side-effects,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Other physical treatments",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Alternative treatments",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Hormonal therapy,Oncology - treatment: Gene therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Mitigating side-effects",1,1,100.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Biopsies",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Mitigating side-effects",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids",1,1,100.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy",1,1,0.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - treatment: Immunotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Hormonal therapy",1,1,100.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Hormonal therapy",1,1,100.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Hormonal therapy",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies",1,1,100.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Radiotherapy,Oncology - treatment: Immunotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Hormonal therapy",1,1,100.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - ICT: Bioinformatics,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Alternative treatments",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Imaging,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Imaging,Oncology - treatment: Hormonal therapy",1,1,100.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Hormonal therapy,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - diagnostics: Biopsies",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - treatment: Alternative treatments",1,1,100.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Gene therapy",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Imaging,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Classical chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Imaging,Oncology - treatment: Radiotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Imaging",1,1,0.0,100.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - cancer models: Cancer models,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Targeted chemotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Hormonal therapy,Oncology - ICT: Healthcare informatics",1,1,0.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids,Oncology - cancer models: Cancer models",1,1,0.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Non-coding nucleic acids",1,1,100.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Targeted chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Radiotherapy,Oncology - cancer models: Cancer models,Oncology - treatment: Immunotherapy",1,1,100.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Targeted chemotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - treatment: Classical chemotherapy",1,1,0.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Immunotherapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Biopsies",1,1,0.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Classical chemotherapy,Oncology - treatment: Hormonal therapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Immunotherapy",1,1,100.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Classical chemotherapy,Oncology - diagnostics: Personalised medicine,Oncology - treatment: Hormonal therapy,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - diagnostics: Personalised medicine,Oncology - diagnostics: Biopsies",1,1,0.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - diagnostics: Imaging",1,1,100.0,100.0,0
+"Oncology - treatment: Gene therapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Personalised medicine",1,1,100.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - diagnostics: Biopsies,Oncology - treatment: Non-coding nucleic acids",1,1,0.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - diagnostics: Biopsies",1,1,100.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models,Oncology - treatment: Hormonal therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Biopsies,Oncology - diagnostics: Personalised medicine",1,1,0.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - cancer models: Cancer models",1,1,0.0,100.0,0
+"Oncology - treatment: Classical chemotherapy,Oncology - treatment: Targeted chemotherapy,Oncology - treatment: Radiotherapy,Oncology - treatment: Immunotherapy,Oncology - cancer models: Cancer models",1,1,100.0,0.0,0
+"Oncology - treatment: Gene therapy,Oncology - treatment: Non-coding nucleic acids,Oncology - diagnostics: Biopsies",1,1,0.0,0.0,0

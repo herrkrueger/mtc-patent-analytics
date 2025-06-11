@@ -1,167 +1,195 @@
-# CLAUDE.md - Deep Tech Finder Patent Analytics
+# CLAUDE.md - DeepTechFinder Patent Analytics v2.0
 
-This file provides guidance to Claude Code (claude.ai/code) when working with the Deep Tech Finder patent analytics module.
+This file provides guidance to Claude Code (claude.ai/code) when working with the ETL-based DeepTechFinder patent analytics platform.
 
-## Project Overview
+## Project Architecture Overview
 
-This module focuses on analyzing German university patents from the DeepTechFinder dataset using EPO OPS API integration. It provides comprehensive patent analytics specifically for academic institutions and their patent portfolios.
+This is a **professional ETL-based patent analytics platform** designed for comprehensive university patent portfolio analysis. The system follows Extract → Transform → Load → Analyze principles with a focus on EPO OPS API integration and German university patents.
 
 ## Development Guidelines
 
-### Important Workflow Tips
-- Always use NotebookEdit when reading or changing Jupyter Notebooks to prevent errors like "Error: File is a Jupyter Notebook. Use the NotebookEdit to edit this file"
-- **Notebook Cell Best Practices**:
-  - Use **markdown cells** for documentation, explanations, and static information
-  - Use **code cells** only for executable code and dynamic outputs
-  - Avoid code cells that only print static text or documentation
-  - Keep notebooks clean and focused on functionality, not verbose explanations
+### Core Architecture Principles
 
-### EPO OPS API Integration (Key Findings)
+**ETL Pipeline Structure:**
+```
+Extract → Transform → Load → Analyze → Export
+   ↓         ↓         ↓        ↓        ↓
+ CSV +    Normalize  Structured Portfolio  Reports
+EPO OPS   All Data   Models    Analysis   & Data
+```
 
-**Working Configuration for German University Patents:**
+**Key Directories:**
+- `src/etl/extract/` - Data acquisition (CSV + EPO OPS)
+- `src/etl/transform/` - Data normalization (priorities, inventors, applicants)
+- `src/etl/load/` - Structured data models (Pydantic validation)
+- `src/analysis/` - Portfolio analysis engines
+- `src/export/` - Report generation (CSV, PDF, JSON)
+- `src/core/` - Configuration and orchestration
+- `cli/` - Command-line interface (primary interface)
+
+### Critical Implementation Notes
+
+**Data Sources:**
+- **DeepTechFinder CSV**: `data/EPO_DeepTechFinder_20250513_DE_Uni_Top100.csv` 
+- **Encoding**: MUST use `latin-1` encoding (not UTF-8)
+- **EPO OPS API**: Application endpoint with proper authentication
+
+**EPO OPS Integration (Validated Patterns):**
 - **Endpoint**: `published-data/application/epodoc/EP{number}/biblio`
-- **Authentication**: OAuth2 with credentials in `ipc-ops/.env`
-- **Format Processing**: Remove "EP" prefix, remove leading zeros, remove kind codes (A/B)
-- **Example**: EP19196837A → `published-data/application/epodoc/EP19196837/biblio`
+- **Headers**: `Authorization: Bearer {token}` + `Accept: application/json` (CRITICAL)
+- **Rate Limiting**: 2-second intervals between requests (mandatory)
+- **Number Formatting**: Preserve leading zeros for 2000s patents
+- **Fallback Strategy**: Try multiple number formats for compatibility
 
-**Critical Discovery**: German university patents from DeepTechFinder are **application numbers**, NOT publication numbers. Must use `/application/` endpoint instead of `/publication/`.
+**Priority Extraction (Corrected Logic):**
+- **JSON Structure**: `priority-claims` → `priority-claim` entries
+- **Strategy**: Prefer German (DE) priorities, fallback to first available
+- **Format**: `DE102123456A·2021-03-15` for German applications
 
-**OPS Response Structure for Data Extraction:**
-- **Applicants**: Search for keys containing 'applicant' → extract 'applicant-name' + 'residence.country'
-- **Inventors**: Search for keys containing 'inventor' → extract 'inventor-name' + 'residence.country'  
-- **Priority Claims**: Search for 'priority-claim' → extract 'country' + 'doc-number' + 'date'
-- **Application Info**: Search for 'application-reference' → extract 'document-id' components
-- **Title**: Search for 'invention-title' → extract text content (may be in '$' or '#text' fields)
+**Data Normalization:**
+- **Inventors**: Eliminate comma-based duplicates with proper name standardization
+- **Applicants**: Categorize as "University" vs "Industry/Other"
+- **Classifications**: Clean IPC formatting, remove extra spaces
 
-**Verified Working Patents:**
-- EP19196837A (Technische Universität Dresden)
-- EP18826058A (University of Applied Sciences Saarbrücken)
-- EP09735811A (University of Applied Sciences Saarbrücken) - required leading zero fix
+### University Processing Workflow
 
-**Critical Leading Zero Discovery**: 
-- Patents from 2000s (EP09735811A) require leading zero preservation: `EP09735811` not `EP9735811`
-- Older patents (EP80100298A) can have leading zeros removed: `EP80100298`
-- Implement fallback strategy: try with leading zero first, then without if 404
+**Single University Analysis (Core Capability):**
+```python
+from src.core.university_engine import UniversityEngine
 
-**Rate Limiting**: Standard EPO OPS limits apply - implement delays between requests.
+engine = UniversityEngine()
+result = engine.analyze_university("TU Dresden", patent_limit=50)
 
-**Data Extraction Issues Resolved**:
-- **Duplicate Data**: EPO OPS returns multiple formats (epodoc, original) for same entities
-- **Solution**: Prefer 'original' format for cleaner names, deduplicate entries
-- **Priority Claims**: Extract from `priority-claims` section with proper date formatting
-- **CPC Classifications**: Located in `patent-classifications` not `classifications-cpc`
-- **IPC Formatting**: Clean spaces from "G01B   5/    00" → "G01B5/00"
-- **Title Selection**: Prefer English (@lang="en"), fallback to first available
+# ETL results available in structured format
+portfolio = result.portfolio              # Complete portfolio data
+collaboration = result.collaboration_insights  # Industry partnerships
+priorities = result.priority_analysis     # Filing strategies  
+inventors = result.inventor_network       # Research networks
+```
 
-**Production Notebook Structure**:
-- Comprehensive markdown documentation for patent searchers
-- Professional presentation format with clear methodology
-- Each code cell has purpose statement and searcher context
-- Export capabilities for further analysis (CSV with complete bibliographic data)
+**CLI Usage (Primary Interface):**
+```bash
+# System testing
+python -m cli.main test
+python -m cli.main list
 
-### Data Files and Structure
+# University analysis  
+python -m cli.main analyze "TU Dresden" --limit 50
+python -m cli.main test-api EP19196837A
+```
 
-**Input Data**: 
-- `data/EPO_DeepTechFinder_20250513_DE_Uni_Top100.csv` - German university patents from DeepTechFinder
+### Proven Methodology Integration
 
-**Output Structure**:
-- `{university}_applicants.csv` - Extracted applicant information
-- `{university}_inventors.csv` - Extracted inventor information  
-- `{university}_german_priorities.csv` - German priority claims analysis
-- `{university}_complete_analysis.csv` - Comprehensive patent analysis
+**Legacy Code Preservation:**
+- `legacy/scripts/` - Contains working EPO OPS patterns
+- `legacy/notebooks/` - Development history and examples
+- Reference implementation patterns from `tu_dresden_analysis.py`
 
-**Analysis Scripts** (in `./scripts/` directory):
-- `analyze_universities.py` - Complete university dataset analysis and JSON generation (creates `output/university_analysis.json`)
-- `university_data_loader.py` - Easy-to-use data loader functions for interactive widgets (used by DTF_OPS_University_Analysis.ipynb)
-- `humboldt_analysis.py` - Humboldt University specific patent analysis
-- `tu_chemnitz_analysis.py` - TU Chemnitz comprehensive patent portfolio analysis  
-- `tu_dresden_analysis.py` - TU Dresden analysis (validated methodology template, basis for interactive platform)
-- `test_priority_analysis.py` - Priority analysis functionality testing
-- `test_priority_analysis_fixed.py` - Fixed version of priority analysis tests
+**Validated Results (TU Dresden):**
+- 265 granted EP patents analyzed successfully
+- 100% EPO OPS retrieval success rate
+- 88% German priority rate (systematic filing strategy)
+- 38 industry collaboration partners identified
 
-**Script Dependencies**:
-- Interactive notebook `DTF_OPS_University_Analysis.ipynb` requires `output/university_analysis.json` (generated by `analyze_universities.py`)
-- Widget functionality uses helper functions from `university_data_loader.py`
-- Analysis methodology based on proven patterns from `tu_dresden_analysis.py`
+**Data Quality Assurance:**
+- All transformations maintain data integrity
+- Pydantic models ensure type safety
+- Comprehensive error handling at each ETL stage
+- Rate limiting compliance with EPO OPS terms
 
-### Interactive Analysis Platform Development
+### Configuration Management
 
-**DTF_OPS_University_Analysis.ipynb - Comprehensive Makeover Completed**:
-- **Interactive University Selection**: Built complete widget-based interface with 100 German universities
-- **Advanced Sorting & Filtering**: By student count, patent applications, grant rate, alphabetical
-- **Real-time Search**: Dynamic filtering with instant university list updates
-- **Multi-Analysis Options**: Complete, priority, collaboration, inventors, technology analysis types
-- **Professional PDF Generation**: Automated report creation with ReportLab integration
-- **Comprehensive CSV Exports**: Complete datasets for all analysis components
+**Settings**: `config/settings.yaml`
+- Application configuration
+- EPO OPS endpoints and rate limits
+- Analysis parameters and defaults
+- Export options and file handling
 
-**Key Technical Achievements**:
-- **Widget Event Handling**: Proper observer patterns for dynamic UI updates
-- **Performance Optimization**: Configurable patent limits (10-200) for scalable analysis
-- **Error Handling**: Comprehensive exception management and user feedback
-- **Rate Limiting**: EPO OPS compliant 2-second intervals between requests
-- **Data Normalization**: Advanced applicant/inventor name standardization
-- **Category Classification**: Automated industry partner categorization across 6 sectors
+**Credentials**: `../ipc-ops/.env`
+- EPO OPS authentication (OPS_KEY, OPS_SECRET)
+- Loaded automatically by configuration system
 
-**Analysis Framework Extensions**:
-- **Portfolio Overview**: Key metrics, collaboration rates, filing strategies
-- **Industry Collaboration Deep Dive**: Partner categorization, timeline evolution, strategic insights
-- **Priority Family Analysis**: German filing strategy assessment, family relationships, timing patterns
-- **Technology Portfolio Sampling**: Representative patent showcase with complete bibliographic data
-- **Strategic Assessment**: Automated collaboration and filing strategy evaluation
+### Development Workflow
 
-**Proven Methodology Integration**:
-- Based on validated TU Dresden (265 patents) and HTW Saarland frameworks
-- 100% EPO OPS retrieval success rates maintained
-- Leading zero handling for 2000s patents (critical discovery preserved)
-- Application endpoint usage for German university patents (key finding applied)
+**For New Features:**
+1. **Test CLI first** - Ensure core functionality works
+2. **Add to ETL pipeline** - Maintain clean separation of concerns  
+3. **Update data models** - Use Pydantic for validation
+4. **Create tests** - Ensure reliability and regression prevention
+5. **Document changes** - Update relevant documentation
 
-**Export Capabilities**:
-- **CSV Data Files**: Complete analysis, applicants, inventors, German priorities
-- **PDF Reports**: Professional multi-page documents with tables, formatting, strategic insights
-- **Safe Filename Handling**: University name normalization for file system compatibility
-- **Stakeholder-Ready Outputs**: Executive summaries, detailed analysis sections, methodology notes
+**For Bug Fixes:**
+1. **Reproduce with CLI** - Use command-line for debugging
+2. **Check legacy patterns** - Reference working code in `legacy/`
+3. **Validate with known data** - Test against TU Dresden results
+4. **Maintain compatibility** - Ensure EPO OPS compliance
 
-**User Experience Enhancements**:
-- **Step-by-Step Workflow**: Clear progression from selection to analysis to export
-- **Real-time Feedback**: Progress indicators, success/failure notifications, estimated time
-- **Flexible Configuration**: Multiple analysis types, patent limits, PDF generation toggle
-- **Professional Presentation**: Clean interface with proper spacing, headers, and visual hierarchy
+### Testing and Validation
 
-### Project Structure
+**System Testing:**
+```bash
+python -m cli.main test                    # Test all components
+python -m cli.main test-api EP19196837A   # Test EPO OPS specifically
+python -m cli.main analyze "TU Dresden" --limit 5  # Quick validation
+```
 
-**Main Analysis Notebooks** (root directory):
-- `DTF_OPS_University_Analysis.ipynb` - **PRIMARY**: Interactive analysis platform with university selection widgets
-- `Interactive_University_Widget_Example.ipynb` - Widget development examples and demonstrations (updated to use `./scripts/` imports)
+**Integration Testing:**
+- Compare results with legacy outputs in `output/`
+- Validate against known working patents
+- Ensure 100% success rate on validated datasets
 
-**Historical/Development Notebooks** (in `./notebooks/` directory):
-- `1 DE Universities from DTF.ipynb` - Initial university data exploration
-- `2 German_University_Patent_Analysis.ipynb` - Early analysis framework development  
-- `3 EPO_OPS_Family_Analysis_Simple.ipynb` - **ORIGINAL**: Simple family analysis (basis for makeover)
-- `Humboldt_University_Analysis.ipynb` - Humboldt University case study
-- `TU_Chemnitz_Analysis.ipynb` - TU Chemnitz analysis results
-- `TU_Dresden_Analysis.ipynb` - TU Dresden comprehensive analysis (validated methodology)
+### Export Capabilities
 
-**Data Sources**:
-- `./data/EPO_DeepTechFinder_20250513_DE_Uni_Top100.csv` - Master dataset with 100 German universities
+**Data Export Options:**
+- **CSV**: Complete datasets for further analysis
+- **PDF**: Professional reports with ReportLab
+- **JSON**: Structured data for applications
 
-**Data Format Notes**:
-- EP patent numbers extracted from `Espacenet_link` column (format: https://worldwide.espacenet.com/patent/search?q=EP80100298A)
-- Filing dates in `Filing_year` column use M/D/YY or M/D/YYYY format requiring conversion
-- University names in `University` column must match exactly for filtering
-- Patent status filtering via `Patent_status` column (focus on 'EP granted' patents)
+**File Naming**: Automatic sanitization for safe filesystem operations
 
-**Output Directory**:
-- `./output/` - All analysis results, CSV exports, PDF reports, and generated data files
+### For Jupyter Notebook Development
 
-**Scripts Directory**:
-- `./scripts/` - All Python analysis scripts and utility functions
+**Simple Integration Pattern:**
+```python
+# Import the engine
+from src.core.university_engine import UniversityEngine
 
-### For Python/Jupyter Development
-- Use virtual environments for dependency management
-- Follow existing code patterns for university-specific analysis
-- Test with small patent samples before full dataset processing
-- Document analysis methodology clearly for patent professionals
-- **Interactive Widgets**: Use ipywidgets for user-friendly interfaces with proper event handling
-- **PDF Generation**: ReportLab integration for professional report creation
-- **Data Export**: Systematic CSV generation with proper filename sanitization
-- **Notebook Organization**: Keep main analysis tools in root, archive development notebooks in `./notebooks/`
+# Use ETL pipeline
+engine = UniversityEngine()
+result = engine.analyze_university("University Name", limit=20)
+
+# Access structured results
+portfolio = result.portfolio
+# ... create visualizations with clean data
+```
+
+**Notebook Best Practices:**
+- Use the ETL engine rather than reimplementing logic
+- Focus on visualization and presentation
+- Import from `src/` modules for functionality
+- Keep notebooks clean and focused on analysis presentation
+
+### Legacy Migration Notes
+
+**What's Preserved:**
+- All working EPO OPS patterns
+- Proven data extraction logic  
+- Successful analysis methodologies
+- Historical results for validation
+
+**What's Improved:**
+- Clean ETL architecture
+- Proper error handling
+- Pydantic data validation
+- CLI-first development
+- Comprehensive testing
+- Professional documentation
+
+### Performance Characteristics
+
+- **Processing Speed**: ~2 patents/minute (EPO OPS rate limited)
+- **Memory Usage**: Minimal (processes one university at a time)
+- **Success Rate**: 100% on validated datasets
+- **Scalability**: 10-200 patents per analysis
+
+This architecture provides a solid foundation for professional patent analytics while maintaining compatibility with proven working patterns from the legacy implementation.

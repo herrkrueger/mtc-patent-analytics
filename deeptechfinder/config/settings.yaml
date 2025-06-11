@@ -1,0 +1,33 @@
+# Deep Tech Finder Configuration
+app:
+  name: "DeepTechFinder Patent Analytics"
+  version: "2.0.0"
+  description: "ETL-based university patent analysis platform"
+
+data:
+  input_file: "data/EPO_DeepTechFinder_20250513_DE_Uni_Top100.csv"
+  encoding: "latin-1"
+  output_dir: "output"
+  
+epo_ops:
+  base_url: "http://ops.epo.org/3.2/rest-services"
+  auth_url: "https://ops.epo.org/3.2/auth/accesstoken"
+  rate_limit_seconds: 2
+  timeout_seconds: 15
+  credentials_file: "../ipc-ops/.env"
+
+analysis:
+  default_patent_limit: 50
+  max_patent_limit: 200
+  min_patent_limit: 10
+
+export:
+  csv_format: true
+  pdf_reports: true
+  json_export: true
+  filename_sanitization: true
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/patent_analytics.log"

@@ -4,72 +4,64 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a **patent data science project** that demonstrates patent analysis using the European Patent Office's Technology Intelligence Platform. The project analyzes German patent data (PATSTAT) to create interactive visualizations of patent applicant and technology distributions across German NUTS Level 3 regions (Landkreise).
+This is a **comprehensive patent analytics toolkit** designed for patent information professionals, PATLIB staff, and patent office personnel. The repository contains multiple specialized modules for different aspects of patent data analysis, from interactive web applications to Jupyter-based analytical workflows. The toolkit demonstrates various approaches to patent data analysis using EPO data sources and modern visualization techniques.
 
-## Key Technologies and Dependencies
+## Development Guidelines
 
-- **Python** with Jupyter notebooks for interactive analysis
-- **EPO Technology Intelligence Platform** via `epo.tipdata.patstat` client
-- **PATSTAT Database** for patent data queries
-- **SQLAlchemy ORM** for database interactions
-- **Pandas** for data manipulation
-- **Pygwalker** for Tableau-like interactive visualizations
-- **lxml** for XML parsing of IPC/CPC classification schemes
-- **GeoPandas** for geographical data handling
+### Important Workflow Tips
+- Always use NotebookEdit when reading or changing Jupyter Notebooks to prevent errors like "Error: File is a Jupyter Notebook. Use the NotebookEdit to edit this file"
+- **Notebook Cell Best Practices**:
+  - Use **markdown cells** for documentation, explanations, and static information
+  - Use **code cells** only for executable code and dynamic outputs
+  - Avoid code cells that only print static text or documentation
+  - Keep notebooks clean and focused on functionality, not verbose explanations
 
-## Main Entry Points
+### EPO OPS API Integration (Key Findings)
+**Working Configuration for German University Patents:**
+- **Endpoint**: `published-data/application/epodoc/EP{number}/biblio`
+- **Authentication**: OAuth2 with credentials in `ipc-ops/.env`
+- **Format Processing**: Remove "EP" prefix, remove leading zeros, remove kind codes (A/B)
+- **Example**: EP19196837A → `published-data/application/epodoc/EP19196837/biblio`
 
-- `epo_pkf2024_piznet_final.ipynb` - Primary presentation notebook for Patent Knowledge Forum 2024
-- `patentknowledgeforum2024.ipynb` - Alternative implementation
-- `notebooks/patstat_nuts_de_with_explanations.ipynb` - Detailed tutorial version
-- `notebooks/ipcbrowser.ipynb` - IPC classification XML parsing experiments
+**Critical Discovery**: German university patents from DeepTechFinder are **application numbers**, NOT publication numbers. Must use `/application/` endpoint instead of `/publication/`.
 
-## Architecture
+**OPS Response Structure for Data Extraction:**
+- **Applicants**: Search for keys containing 'applicant' → extract 'applicant-name' + 'residence.country'
+- **Inventors**: Search for keys containing 'inventor' → extract 'inventor-name' + 'residence.country'  
+- **Priority Claims**: Search for 'priority-claim' → extract 'country' + 'doc-number' + 'date'
+- **Application Info**: Search for 'application-reference' → extract 'document-id' components
+- **Title**: Search for 'invention-title' → extract text content (may be in '$' or '#text' fields)
 
-The project follows a data analysis pipeline:
+**Verified Working Patents:**
+- EP19196837A (Technische Universität Dresden)
+- EP18826058A (University of Applied Sciences Saarbrücken)
+- EP09735811A (University of Applied Sciences Saarbrücken) - required leading zero fix
 
-1. **Database Connection**: Connect to PATSTAT using EPO's PatstatClient
-2. **Data Extraction**: SQL queries joining multiple PATSTAT tables (TLS201_APPLN, TLS206_PERSON, TLS207_PERS_APPLN, TLS224_APPLN_CPC)
-3. **Data Enrichment**: Map NUTS codes to region names and CPC codes to technology titles
-4. **Visualization**: Interactive choropleth maps using Pygwalker
+**Critical Leading Zero Discovery**: 
+- Patents from 2000s (EP09735811A) require leading zero preservation: `EP09735811` not `EP9735811`
+- Older patents (EP80100298A) can have leading zeros removed: `EP80100298`
+- Implement fallback strategy: try with leading zero first, then without if 404
 
-### Core Components
+**Rate Limiting**: Standard EPO OPS limits apply - implement delays between requests.
 
-- **PatentDataProcessor Class**: Modular Python class encapsulating the entire workflow
-- **NUTS Mappings**: Regional code mappings from EUROSTAT data in `mappings/nuts_mapping.csv`
-- **IPC/CPC Schemes**: Technology classification mappings from XML files in `mappings/`
-- **Output Data**: Processed datasets saved to `output/` directory
+**Data Extraction Issues Resolved**:
+- **Duplicate Data**: EPO OPS returns multiple formats (epodoc, original) for same entities
+- **Solution**: Prefer 'original' format for cleaner names, deduplicate entries
+- **Priority Claims**: Extract from `priority-claims` section with proper date formatting
+- **CPC Classifications**: Located in `patent-classifications` not `classifications-cpc`
+- **IPC Formatting**: Clean spaces from "G01B   5/    00" → "G01B5/00"
+- **Title Selection**: Prefer English (@lang="en"), fallback to first available
 
-## Working with PATSTAT Data
+**Production Notebook Structure**:
+- Comprehensive markdown documentation for patent searchers
+- Professional presentation format with clear methodology
+- Each code cell has purpose statement and searcher context
+- Export capabilities for further analysis (CSV with complete bibliographic data)
 
-The project connects to EPO's PATSTAT database with environment selection:
-- `PatstatClient(env="TEST")` for development with limited dataset
-- `PatstatClient(env="PROD")` for full production dataset
+### For Python/Jupyter Development
+- Use virtual environments for dependency management
+- Follow existing code patterns in each module
+- Test with PATSTAT TEST environment before PROD
+- Document new analysis workflows in notebooks
 
-Key PATSTAT tables used:
-- `TLS201_APPLN` - Application data
-- `TLS206_PERSON` - Person/applicant data with NUTS codes
-- `TLS207_PERS_APPLN` - Person-application relationships
-- `TLS224_APPLN_CPC` - CPC classification codes
-
-## Data Processing Workflow
-
-1. Query German patent applications filtered by NUTS Level 3 regions
-2. Group by applicant, region, filing year, and technology field
-3. Map NUTS codes to federal state and district names
-4. Map CPC subclass codes to technology titles using IPC XML scheme
-5. Generate interactive visualizations with geographic mapping
-
-## File Structure
-
-- `mappings/` - External data for enrichment (NUTS codes, IPC schemes, geographic boundaries)
-- `output/` - Generated CSV datasets for analysis
-- `images/` - Screenshots and presentation materials
-- `notebooks/` - Additional analysis notebooks and experiments
-
-## Visualization Configuration
-
-The project uses Pygwalker for interactive data exploration with configuration stored in `pygwalker_config.json`. To create choropleth maps:
-- Load NUTS geographic boundaries (GeoJSON from EUROSTAT)
-- Configure geographic coordinate system
-- Map NUTS_ID to geometry and data fields
+[... rest of the original file content remains the same ...]

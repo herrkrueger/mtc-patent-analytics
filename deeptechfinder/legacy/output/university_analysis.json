@@ -1,0 +1,4223 @@
+{
+  "universities": [
+    {
+      "name": "Karlsruhe Institute of Technology",
+      "total_students": 21848,
+      "total_applications": 1269,
+      "granted_patents": 811,
+      "grant_rate": 63.9
+    },
+    {
+      "name": "Technical University of Munich",
+      "total_students": 47047,
+      "total_applications": 647,
+      "granted_patents": 208,
+      "grant_rate": 32.1
+    },
+    {
+      "name": "University of Erlangen-Nrnberg",
+      "total_students": 37728,
+      "total_applications": 553,
+      "granted_patents": 210,
+      "grant_rate": 38.0
+    },
+    {
+      "name": "University of Freiburg",
+      "total_students": 23938,
+      "total_applications": 537,
+      "granted_patents": 241,
+      "grant_rate": 44.9
+    },
+    {
+      "name": "Technische Universitt Dresden",
+      "total_students": 29286,
+      "total_applications": 492,
+      "granted_patents": 265,
+      "grant_rate": 53.9
+    },
+    {
+      "name": "Heidelberg University",
+      "total_students": 28448,
+      "total_applications": 420,
+      "granted_patents": 166,
+      "grant_rate": 39.5
+    },
+    {
+      "name": "Technical University of Berlin",
+      "total_students": 35149,
+      "total_applications": 388,
+      "granted_patents": 207,
+      "grant_rate": 53.4
+    },
+    {
+      "name": "Aachen University",
+      "total_students": 47521,
+      "total_applications": 351,
+      "granted_patents": 137,
+      "grant_rate": 39.0
+    },
+    {
+      "name": "Johannes Gutenberg University Mainz",
+      "total_students": 30461,
+      "total_applications": 333,
+      "granted_patents": 148,
+      "grant_rate": 44.4
+    },
+    {
+      "name": "Ludwig Maximilian University of Munich",
+      "total_students": 51005,
+      "total_applications": 307,
+      "granted_patents": 105,
+      "grant_rate": 34.2
+    },
+    {
+      "name": "University of Stuttgart",
+      "total_students": 22616,
+      "total_applications": 307,
+      "granted_patents": 132,
+      "grant_rate": 43.0
+    },
+    {
+      "name": "Tbingen University",
+      "total_students": 27770,
+      "total_applications": 265,
+      "granted_patents": 137,
+      "grant_rate": 51.7
+    },
+    {
+      "name": "Hannover Medical School",
+      "total_students": 3843,
+      "total_applications": 235,
+      "granted_patents": 95,
+      "grant_rate": 40.4
+    },
+    {
+      "name": "University of Wrzburg",
+      "total_students": 27149,
+      "total_applications": 227,
+      "granted_patents": 74,
+      "grant_rate": 32.6
+    },
+    {
+      "name": "Technical University of Darmstadt",
+      "total_students": 24969,
+      "total_applications": 201,
+      "granted_patents": 99,
+      "grant_rate": 49.3
+    },
+    {
+      "name": "University of Mnster",
+      "total_students": 43728,
+      "total_applications": 201,
+      "granted_patents": 56,
+      "grant_rate": 27.9
+    },
+    {
+      "name": "University of Hamburg",
+      "total_students": 43110,
+      "total_applications": 200,
+      "granted_patents": 50,
+      "grant_rate": 25.0
+    },
+    {
+      "name": "Friedrich-Schiller-University of Jena",
+      "total_students": 17345,
+      "total_applications": 183,
+      "granted_patents": 94,
+      "grant_rate": 51.4
+    },
+    {
+      "name": "University of Bonn",
+      "total_students": 36805,
+      "total_applications": 172,
+      "granted_patents": 58,
+      "grant_rate": 33.7
+    },
+    {
+      "name": "Free University of Berlin",
+      "total_students": 37608,
+      "total_applications": 164,
+      "granted_patents": 58,
+      "grant_rate": 35.4
+    },
+    {
+      "name": "University of Kiel",
+      "total_students": 27468,
+      "total_applications": 148,
+      "granted_patents": 67,
+      "grant_rate": 45.3
+    },
+    {
+      "name": "Frankfurt University",
+      "total_students": 43461,
+      "total_applications": 140,
+      "granted_patents": 37,
+      "grant_rate": 26.4
+    },
+    {
+      "name": "Justus Liebig University Giessen",
+      "total_students": 27184,
+      "total_applications": 139,
+      "granted_patents": 47,
+      "grant_rate": 33.8
+    },
+    {
+      "name": "Philipps University of Marburg",
+      "total_students": 21723,
+      "total_applications": 129,
+      "granted_patents": 48,
+      "grant_rate": 37.2
+    },
+    {
+      "name": "Saarland University",
+      "total_students": 16240,
+      "total_applications": 126,
+      "granted_patents": 38,
+      "grant_rate": 30.2
+    },
+    {
+      "name": "University of Cologne",
+      "total_students": 52204,
+      "total_applications": 122,
+      "granted_patents": 43,
+      "grant_rate": 35.2
+    },
+    {
+      "name": "University of Hannover",
+      "total_students": 28817,
+      "total_applications": 119,
+      "granted_patents": 49,
+      "grant_rate": 41.2
+    },
+    {
+      "name": "Brunswick University of Technology",
+      "total_students": 17794,
+      "total_applications": 118,
+      "granted_patents": 57,
+      "grant_rate": 48.3
+    },
+    {
+      "name": "University of Duisburg-Essen",
+      "total_students": 41322,
+      "total_applications": 116,
+      "granted_patents": 51,
+      "grant_rate": 44.0
+    },
+    {
+      "name": "University of Regensburg",
+      "total_students": 20702,
+      "total_applications": 115,
+      "granted_patents": 36,
+      "grant_rate": 31.3
+    },
+    {
+      "name": "University of Kassel",
+      "total_students": 23552,
+      "total_applications": 110,
+      "granted_patents": 66,
+      "grant_rate": 60.0
+    },
+    {
+      "name": "Ilmenau University of Technology",
+      "total_students": 4889,
+      "total_applications": 104,
+      "granted_patents": 59,
+      "grant_rate": 56.7
+    },
+    {
+      "name": "Otto von Guericke University of Magdeburg",
+      "total_students": 13143,
+      "total_applications": 101,
+      "granted_patents": 25,
+      "grant_rate": 24.8
+    },
+    {
+      "name": "TU Dortmund University",
+      "total_students": 32228,
+      "total_applications": 95,
+      "granted_patents": 41,
+      "grant_rate": 43.2
+    },
+    {
+      "name": "Leipzig University",
+      "total_students": 29927,
+      "total_applications": 91,
+      "granted_patents": 47,
+      "grant_rate": 51.6
+    },
+    {
+      "name": "Ulm University",
+      "total_students": 10164,
+      "total_applications": 82,
+      "granted_patents": 28,
+      "grant_rate": 34.1
+    },
+    {
+      "name": "Hamburg University of Technology",
+      "total_students": 7157,
+      "total_applications": 79,
+      "granted_patents": 38,
+      "grant_rate": 48.1
+    },
+    {
+      "name": "University of Rostock",
+      "total_students": 12664,
+      "total_applications": 74,
+      "granted_patents": 35,
+      "grant_rate": 47.3
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "total_students": 36378,
+      "total_applications": 72,
+      "granted_patents": 34,
+      "grant_rate": 47.2
+    },
+    {
+      "name": "Ruhr-University Bochum",
+      "total_students": 42088,
+      "total_applications": 71,
+      "granted_patents": 31,
+      "grant_rate": 43.7
+    },
+    {
+      "name": "Heinrich Heine University Dsseldorf",
+      "total_students": 33942,
+      "total_applications": 70,
+      "granted_patents": 27,
+      "grant_rate": 38.6
+    },
+    {
+      "name": "University of Konstanz",
+      "total_students": 10939,
+      "total_applications": 63,
+      "granted_patents": 24,
+      "grant_rate": 38.1
+    },
+    {
+      "name": "University of Bremen",
+      "total_students": 17984,
+      "total_applications": 61,
+      "granted_patents": 25,
+      "grant_rate": 41.0
+    },
+    {
+      "name": "Brandenburg University of Technology (BTU) Cottbus Senftenberg",
+      "total_students": 6830,
+      "total_applications": 58,
+      "granted_patents": 23,
+      "grant_rate": 39.7
+    },
+    {
+      "name": "Technische Universitt Bergakademie Freiberg",
+      "total_students": 3574,
+      "total_applications": 49,
+      "granted_patents": 20,
+      "grant_rate": 40.8
+    },
+    {
+      "name": "Clausthal University of Technology",
+      "total_students": 3446,
+      "total_applications": 49,
+      "granted_patents": 24,
+      "grant_rate": 49.0
+    },
+    {
+      "name": "University of Potsdam",
+      "total_students": 21454,
+      "total_applications": 48,
+      "granted_patents": 22,
+      "grant_rate": 45.8
+    },
+    {
+      "name": "University of Greifswald",
+      "total_students": 10366,
+      "total_applications": 46,
+      "granted_patents": 13,
+      "grant_rate": 28.3
+    },
+    {
+      "name": "Helmut Schmidt University of the Federal Armed Forces Hamburg",
+      "total_students": 2599,
+      "total_applications": 45,
+      "granted_patents": 23,
+      "grant_rate": 51.1
+    },
+    {
+      "name": "University of Kaiserslautern",
+      "total_students": 13607,
+      "total_applications": 44,
+      "granted_patents": 27,
+      "grant_rate": 61.4
+    },
+    {
+      "name": "Chemnitz University of Technology",
+      "total_students": 9670,
+      "total_applications": 44,
+      "granted_patents": 21,
+      "grant_rate": 47.7
+    },
+    {
+      "name": "University of Lbeck",
+      "total_students": 5968,
+      "total_applications": 43,
+      "granted_patents": 22,
+      "grant_rate": 51.2
+    },
+    {
+      "name": "Bielefeld University",
+      "total_students": 24488,
+      "total_applications": 43,
+      "granted_patents": 17,
+      "grant_rate": 39.5
+    },
+    {
+      "name": "Technische Hochschule Mittelhessen",
+      "total_students": 17930,
+      "total_applications": 41,
+      "granted_patents": 21,
+      "grant_rate": 51.2
+    },
+    {
+      "name": "University of Paderborn",
+      "total_students": 19110,
+      "total_applications": 39,
+      "granted_patents": 17,
+      "grant_rate": 43.6
+    },
+    {
+      "name": "Bundeswehr University Munich",
+      "total_students": 3973,
+      "total_applications": 35,
+      "granted_patents": 7,
+      "grant_rate": 20.0
+    },
+    {
+      "name": "University of Bayreuth",
+      "total_students": 12773,
+      "total_applications": 35,
+      "granted_patents": 15,
+      "grant_rate": 42.9
+    },
+    {
+      "name": "Jacobs University Bremen",
+      "total_students": 1531,
+      "total_applications": 35,
+      "granted_patents": 15,
+      "grant_rate": 42.9
+    },
+    {
+      "name": "Martin Luther University",
+      "total_students": 20757,
+      "total_applications": 32,
+      "granted_patents": 8,
+      "grant_rate": 25.0
+    },
+    {
+      "name": "Munich University of Applied Sciences",
+      "total_students": 18192,
+      "total_applications": 30,
+      "granted_patents": 10,
+      "grant_rate": 33.3
+    },
+    {
+      "name": "Technische Hochschule Nrnberg Georg Simon Ohm",
+      "total_students": 12924,
+      "total_applications": 27,
+      "granted_patents": 8,
+      "grant_rate": 29.6
+    },
+    {
+      "name": "Ostbayerische Technische Hochschule Regensburg",
+      "total_students": 10586,
+      "total_applications": 26,
+      "granted_patents": 9,
+      "grant_rate": 34.6
+    },
+    {
+      "name": "University of Applied Sciences and Arts Hildesheim/Holzminden/Gttingen",
+      "total_students": 6440,
+      "total_applications": 26,
+      "granted_patents": 18,
+      "grant_rate": 69.2
+    },
+    {
+      "name": "University of Hohenheim",
+      "total_students": 8392,
+      "total_applications": 24,
+      "granted_patents": 12,
+      "grant_rate": 50.0
+    },
+    {
+      "name": "Anhalt University of Applied Sciences",
+      "total_students": 7052,
+      "total_applications": 23,
+      "granted_patents": 10,
+      "grant_rate": 43.5
+    },
+    {
+      "name": "University of Siegen",
+      "total_students": 17805,
+      "total_applications": 22,
+      "granted_patents": 8,
+      "grant_rate": 36.4
+    },
+    {
+      "name": "Aachen University of Applied Sciences",
+      "total_students": 14792,
+      "total_applications": 22,
+      "granted_patents": 13,
+      "grant_rate": 59.1
+    },
+    {
+      "name": "Fachhochschule Dresden (Priv. FH)",
+      "total_students": 550,
+      "total_applications": 22,
+      "granted_patents": 13,
+      "grant_rate": 59.1
+    },
+    {
+      "name": "Karlsruhe University of Applied Sciences",
+      "total_students": 7141,
+      "total_applications": 20,
+      "granted_patents": 9,
+      "grant_rate": 45.0
+    },
+    {
+      "name": "Berlin University of Applied Sciences",
+      "total_students": 14326,
+      "total_applications": 20,
+      "granted_patents": 7,
+      "grant_rate": 35.0
+    },
+    {
+      "name": "University of Applied Sciences Jena",
+      "total_students": 4534,
+      "total_applications": 19,
+      "granted_patents": 11,
+      "grant_rate": 57.9
+    },
+    {
+      "name": "Mnster University of Applied Sciences",
+      "total_students": 15297,
+      "total_applications": 17,
+      "granted_patents": 10,
+      "grant_rate": 58.8
+    },
+    {
+      "name": "Ostwestfalen-Lippe University of Applied Sciences",
+      "total_students": 6203,
+      "total_applications": 17,
+      "granted_patents": 6,
+      "grant_rate": 35.3
+    },
+    {
+      "name": "Kiel University of Applied Sciences",
+      "total_students": 7821,
+      "total_applications": 17,
+      "granted_patents": 10,
+      "grant_rate": 58.8
+    },
+    {
+      "name": "Technische Hochschule Ingolstadt",
+      "total_students": 6342,
+      "total_applications": 16,
+      "granted_patents": 7,
+      "grant_rate": 43.8
+    },
+    {
+      "name": "University of Wuppertal",
+      "total_students": 22601,
+      "total_applications": 16,
+      "granted_patents": 8,
+      "grant_rate": 50.0
+    },
+    {
+      "name": "Coburg University of Applied Sciences",
+      "total_students": 5025,
+      "total_applications": 15,
+      "granted_patents": 13,
+      "grant_rate": 86.7
+    },
+    {
+      "name": "University of Applied Sciences Mannheim",
+      "total_students": 5583,
+      "total_applications": 15,
+      "granted_patents": 4,
+      "grant_rate": 26.7
+    },
+    {
+      "name": "Cologne University of Applied Sciences",
+      "total_students": 25672,
+      "total_applications": 15,
+      "granted_patents": 8,
+      "grant_rate": 53.3
+    },
+    {
+      "name": "Technical University of Applied Sciences Wildau",
+      "total_students": 3462,
+      "total_applications": 15,
+      "granted_patents": 5,
+      "grant_rate": 33.3
+    },
+    {
+      "name": "Carl von Ossietzky the University of Oldenburg",
+      "total_students": 15368,
+      "total_applications": 15,
+      "granted_patents": 9,
+      "grant_rate": 60.0
+    },
+    {
+      "name": "Kempten University of Applied Sciences",
+      "total_students": 5337,
+      "total_applications": 13,
+      "granted_patents": 9,
+      "grant_rate": 69.2
+    },
+    {
+      "name": "Furtwangen University",
+      "total_students": 5700,
+      "total_applications": 13,
+      "granted_patents": 5,
+      "grant_rate": 38.5
+    },
+    {
+      "name": "Trier University of Applied Sciences",
+      "total_students": 6954,
+      "total_applications": 13,
+      "granted_patents": 4,
+      "grant_rate": 30.8
+    },
+    {
+      "name": "Westflische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+      "total_students": 8143,
+      "total_applications": 13,
+      "granted_patents": 8,
+      "grant_rate": 61.5
+    },
+    {
+      "name": "Offenburg University",
+      "total_students": 4161,
+      "total_applications": 12,
+      "granted_patents": 7,
+      "grant_rate": 58.3
+    },
+    {
+      "name": "Bauhaus-Universitt Weimar",
+      "total_students": 3988,
+      "total_applications": 12,
+      "granted_patents": 6,
+      "grant_rate": 50.0
+    },
+    {
+      "name": "Osnabrck University",
+      "total_students": 13628,
+      "total_applications": 12,
+      "granted_patents": 4,
+      "grant_rate": 33.3
+    },
+    {
+      "name": "University of Applied Sciences Saarbrcken",
+      "total_students": 6088,
+      "total_applications": 11,
+      "granted_patents": 2,
+      "grant_rate": 18.2
+    },
+    {
+      "name": "Kaiserslautern University of Applied Sciences",
+      "total_students": 6170,
+      "total_applications": 11,
+      "granted_patents": 7,
+      "grant_rate": 63.6
+    },
+    {
+      "name": "Technical University Lbeck",
+      "total_students": 5204,
+      "total_applications": 11,
+      "granted_patents": 6,
+      "grant_rate": 54.5
+    },
+    {
+      "name": "RheinMain University of Applied Sciences",
+      "total_students": 13482,
+      "total_applications": 10,
+      "granted_patents": 5,
+      "grant_rate": 50.0
+    },
+    {
+      "name": "Niederrhein University of Applied Sciences",
+      "total_students": 13748,
+      "total_applications": 10,
+      "granted_patents": 7,
+      "grant_rate": 70.0
+    },
+    {
+      "name": "University of Augsburg",
+      "total_students": 19975,
+      "total_applications": 9,
+      "granted_patents": 4,
+      "grant_rate": 44.4
+    },
+    {
+      "name": "Darmstadt University of Applied Sciences",
+      "total_students": 16180,
+      "total_applications": 9,
+      "granted_patents": 6,
+      "grant_rate": 66.7
+    },
+    {
+      "name": "Konstanz University of Applied Sciences",
+      "total_students": 4670,
+      "total_applications": 8,
+      "granted_patents": 4,
+      "grant_rate": 50.0
+    },
+    {
+      "name": "Hamburg University of Applied Sciences",
+      "total_students": 16877,
+      "total_applications": 8,
+      "granted_patents": 3,
+      "grant_rate": 37.5
+    },
+    {
+      "name": "Rosenheim University of Applied Sciences",
+      "total_students": 6463,
+      "total_applications": 7,
+      "granted_patents": 6,
+      "grant_rate": 85.7
+    },
+    {
+      "name": "Aalen University",
+      "total_students": 5746,
+      "total_applications": 7,
+      "granted_patents": 3,
+      "grant_rate": 42.9
+    },
+    {
+      "name": "Aschaffenburg University of Applied Sciences",
+      "total_students": 3424,
+      "total_applications": 7,
+      "granted_patents": 4,
+      "grant_rate": 57.1
+    }
+  ],
+  "summary": {
+    "total_universities": 100,
+    "total_students": 1789466,
+    "total_applications": 11118,
+    "total_granted": 4907,
+    "overall_grant_rate": 44.1
+  },
+  "sorting_options": {
+    "alphabetical": [
+      {
+        "name": "Aachen University",
+        "total_students": 47521,
+        "total_applications": 351,
+        "granted_patents": 137,
+        "grant_rate": 39.0
+      },
+      {
+        "name": "Aachen University of Applied Sciences",
+        "total_students": 14792,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Aalen University",
+        "total_students": 5746,
+        "total_applications": 7,
+        "granted_patents": 3,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Anhalt University of Applied Sciences",
+        "total_students": 7052,
+        "total_applications": 23,
+        "granted_patents": 10,
+        "grant_rate": 43.5
+      },
+      {
+        "name": "Aschaffenburg University of Applied Sciences",
+        "total_students": 3424,
+        "total_applications": 7,
+        "granted_patents": 4,
+        "grant_rate": 57.1
+      },
+      {
+        "name": "Bauhaus-Universitt Weimar",
+        "total_students": 3988,
+        "total_applications": 12,
+        "granted_patents": 6,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Berlin University of Applied Sciences",
+        "total_students": 14326,
+        "total_applications": 20,
+        "granted_patents": 7,
+        "grant_rate": 35.0
+      },
+      {
+        "name": "Bielefeld University",
+        "total_students": 24488,
+        "total_applications": 43,
+        "granted_patents": 17,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Brandenburg University of Technology (BTU) Cottbus Senftenberg",
+        "total_students": 6830,
+        "total_applications": 58,
+        "granted_patents": 23,
+        "grant_rate": 39.7
+      },
+      {
+        "name": "Brunswick University of Technology",
+        "total_students": 17794,
+        "total_applications": 118,
+        "granted_patents": 57,
+        "grant_rate": 48.3
+      },
+      {
+        "name": "Bundeswehr University Munich",
+        "total_students": 3973,
+        "total_applications": 35,
+        "granted_patents": 7,
+        "grant_rate": 20.0
+      },
+      {
+        "name": "Carl von Ossietzky the University of Oldenburg",
+        "total_students": 15368,
+        "total_applications": 15,
+        "granted_patents": 9,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Chemnitz University of Technology",
+        "total_students": 9670,
+        "total_applications": 44,
+        "granted_patents": 21,
+        "grant_rate": 47.7
+      },
+      {
+        "name": "Clausthal University of Technology",
+        "total_students": 3446,
+        "total_applications": 49,
+        "granted_patents": 24,
+        "grant_rate": 49.0
+      },
+      {
+        "name": "Coburg University of Applied Sciences",
+        "total_students": 5025,
+        "total_applications": 15,
+        "granted_patents": 13,
+        "grant_rate": 86.7
+      },
+      {
+        "name": "Cologne University of Applied Sciences",
+        "total_students": 25672,
+        "total_applications": 15,
+        "granted_patents": 8,
+        "grant_rate": 53.3
+      },
+      {
+        "name": "Darmstadt University of Applied Sciences",
+        "total_students": 16180,
+        "total_applications": 9,
+        "granted_patents": 6,
+        "grant_rate": 66.7
+      },
+      {
+        "name": "Fachhochschule Dresden (Priv. FH)",
+        "total_students": 550,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Frankfurt University",
+        "total_students": 43461,
+        "total_applications": 140,
+        "granted_patents": 37,
+        "grant_rate": 26.4
+      },
+      {
+        "name": "Free University of Berlin",
+        "total_students": 37608,
+        "total_applications": 164,
+        "granted_patents": 58,
+        "grant_rate": 35.4
+      },
+      {
+        "name": "Friedrich-Schiller-University of Jena",
+        "total_students": 17345,
+        "total_applications": 183,
+        "granted_patents": 94,
+        "grant_rate": 51.4
+      },
+      {
+        "name": "Furtwangen University",
+        "total_students": 5700,
+        "total_applications": 13,
+        "granted_patents": 5,
+        "grant_rate": 38.5
+      },
+      {
+        "name": "Hamburg University of Applied Sciences",
+        "total_students": 16877,
+        "total_applications": 8,
+        "granted_patents": 3,
+        "grant_rate": 37.5
+      },
+      {
+        "name": "Hamburg University of Technology",
+        "total_students": 7157,
+        "total_applications": 79,
+        "granted_patents": 38,
+        "grant_rate": 48.1
+      },
+      {
+        "name": "Hannover Medical School",
+        "total_students": 3843,
+        "total_applications": 235,
+        "granted_patents": 95,
+        "grant_rate": 40.4
+      },
+      {
+        "name": "Heidelberg University",
+        "total_students": 28448,
+        "total_applications": 420,
+        "granted_patents": 166,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Heinrich Heine University Dsseldorf",
+        "total_students": 33942,
+        "total_applications": 70,
+        "granted_patents": 27,
+        "grant_rate": 38.6
+      },
+      {
+        "name": "Helmut Schmidt University of the Federal Armed Forces Hamburg",
+        "total_students": 2599,
+        "total_applications": 45,
+        "granted_patents": 23,
+        "grant_rate": 51.1
+      },
+      {
+        "name": "Humboldt University of Berlin",
+        "total_students": 36378,
+        "total_applications": 72,
+        "granted_patents": 34,
+        "grant_rate": 47.2
+      },
+      {
+        "name": "Ilmenau University of Technology",
+        "total_students": 4889,
+        "total_applications": 104,
+        "granted_patents": 59,
+        "grant_rate": 56.7
+      },
+      {
+        "name": "Jacobs University Bremen",
+        "total_students": 1531,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Johannes Gutenberg University Mainz",
+        "total_students": 30461,
+        "total_applications": 333,
+        "granted_patents": 148,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "Justus Liebig University Giessen",
+        "total_students": 27184,
+        "total_applications": 139,
+        "granted_patents": 47,
+        "grant_rate": 33.8
+      },
+      {
+        "name": "Kaiserslautern University of Applied Sciences",
+        "total_students": 6170,
+        "total_applications": 11,
+        "granted_patents": 7,
+        "grant_rate": 63.6
+      },
+      {
+        "name": "Karlsruhe Institute of Technology",
+        "total_students": 21848,
+        "total_applications": 1269,
+        "granted_patents": 811,
+        "grant_rate": 63.9
+      },
+      {
+        "name": "Karlsruhe University of Applied Sciences",
+        "total_students": 7141,
+        "total_applications": 20,
+        "granted_patents": 9,
+        "grant_rate": 45.0
+      },
+      {
+        "name": "Kempten University of Applied Sciences",
+        "total_students": 5337,
+        "total_applications": 13,
+        "granted_patents": 9,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Kiel University of Applied Sciences",
+        "total_students": 7821,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Konstanz University of Applied Sciences",
+        "total_students": 4670,
+        "total_applications": 8,
+        "granted_patents": 4,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Leipzig University",
+        "total_students": 29927,
+        "total_applications": 91,
+        "granted_patents": 47,
+        "grant_rate": 51.6
+      },
+      {
+        "name": "Ludwig Maximilian University of Munich",
+        "total_students": 51005,
+        "total_applications": 307,
+        "granted_patents": 105,
+        "grant_rate": 34.2
+      },
+      {
+        "name": "Martin Luther University",
+        "total_students": 20757,
+        "total_applications": 32,
+        "granted_patents": 8,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "Munich University of Applied Sciences",
+        "total_students": 18192,
+        "total_applications": 30,
+        "granted_patents": 10,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Mnster University of Applied Sciences",
+        "total_students": 15297,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Niederrhein University of Applied Sciences",
+        "total_students": 13748,
+        "total_applications": 10,
+        "granted_patents": 7,
+        "grant_rate": 70.0
+      },
+      {
+        "name": "Offenburg University",
+        "total_students": 4161,
+        "total_applications": 12,
+        "granted_patents": 7,
+        "grant_rate": 58.3
+      },
+      {
+        "name": "Osnabrck University",
+        "total_students": 13628,
+        "total_applications": 12,
+        "granted_patents": 4,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Ostbayerische Technische Hochschule Regensburg",
+        "total_students": 10586,
+        "total_applications": 26,
+        "granted_patents": 9,
+        "grant_rate": 34.6
+      },
+      {
+        "name": "Ostwestfalen-Lippe University of Applied Sciences",
+        "total_students": 6203,
+        "total_applications": 17,
+        "granted_patents": 6,
+        "grant_rate": 35.3
+      },
+      {
+        "name": "Otto von Guericke University of Magdeburg",
+        "total_students": 13143,
+        "total_applications": 101,
+        "granted_patents": 25,
+        "grant_rate": 24.8
+      },
+      {
+        "name": "Philipps University of Marburg",
+        "total_students": 21723,
+        "total_applications": 129,
+        "granted_patents": 48,
+        "grant_rate": 37.2
+      },
+      {
+        "name": "RheinMain University of Applied Sciences",
+        "total_students": 13482,
+        "total_applications": 10,
+        "granted_patents": 5,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Rosenheim University of Applied Sciences",
+        "total_students": 6463,
+        "total_applications": 7,
+        "granted_patents": 6,
+        "grant_rate": 85.7
+      },
+      {
+        "name": "Ruhr-University Bochum",
+        "total_students": 42088,
+        "total_applications": 71,
+        "granted_patents": 31,
+        "grant_rate": 43.7
+      },
+      {
+        "name": "Saarland University",
+        "total_students": 16240,
+        "total_applications": 126,
+        "granted_patents": 38,
+        "grant_rate": 30.2
+      },
+      {
+        "name": "TU Dortmund University",
+        "total_students": 32228,
+        "total_applications": 95,
+        "granted_patents": 41,
+        "grant_rate": 43.2
+      },
+      {
+        "name": "Technical University Lbeck",
+        "total_students": 5204,
+        "total_applications": 11,
+        "granted_patents": 6,
+        "grant_rate": 54.5
+      },
+      {
+        "name": "Technical University of Applied Sciences Wildau",
+        "total_students": 3462,
+        "total_applications": 15,
+        "granted_patents": 5,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Technical University of Berlin",
+        "total_students": 35149,
+        "total_applications": 388,
+        "granted_patents": 207,
+        "grant_rate": 53.4
+      },
+      {
+        "name": "Technical University of Darmstadt",
+        "total_students": 24969,
+        "total_applications": 201,
+        "granted_patents": 99,
+        "grant_rate": 49.3
+      },
+      {
+        "name": "Technical University of Munich",
+        "total_students": 47047,
+        "total_applications": 647,
+        "granted_patents": 208,
+        "grant_rate": 32.1
+      },
+      {
+        "name": "Technische Hochschule Ingolstadt",
+        "total_students": 6342,
+        "total_applications": 16,
+        "granted_patents": 7,
+        "grant_rate": 43.8
+      },
+      {
+        "name": "Technische Hochschule Mittelhessen",
+        "total_students": 17930,
+        "total_applications": 41,
+        "granted_patents": 21,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "Technische Hochschule Nrnberg Georg Simon Ohm",
+        "total_students": 12924,
+        "total_applications": 27,
+        "granted_patents": 8,
+        "grant_rate": 29.6
+      },
+      {
+        "name": "Technische Universitt Bergakademie Freiberg",
+        "total_students": 3574,
+        "total_applications": 49,
+        "granted_patents": 20,
+        "grant_rate": 40.8
+      },
+      {
+        "name": "Technische Universitt Dresden",
+        "total_students": 29286,
+        "total_applications": 492,
+        "granted_patents": 265,
+        "grant_rate": 53.9
+      },
+      {
+        "name": "Trier University of Applied Sciences",
+        "total_students": 6954,
+        "total_applications": 13,
+        "granted_patents": 4,
+        "grant_rate": 30.8
+      },
+      {
+        "name": "Tbingen University",
+        "total_students": 27770,
+        "total_applications": 265,
+        "granted_patents": 137,
+        "grant_rate": 51.7
+      },
+      {
+        "name": "Ulm University",
+        "total_students": 10164,
+        "total_applications": 82,
+        "granted_patents": 28,
+        "grant_rate": 34.1
+      },
+      {
+        "name": "University of Applied Sciences Jena",
+        "total_students": 4534,
+        "total_applications": 19,
+        "granted_patents": 11,
+        "grant_rate": 57.9
+      },
+      {
+        "name": "University of Applied Sciences Mannheim",
+        "total_students": 5583,
+        "total_applications": 15,
+        "granted_patents": 4,
+        "grant_rate": 26.7
+      },
+      {
+        "name": "University of Applied Sciences Saarbrcken",
+        "total_students": 6088,
+        "total_applications": 11,
+        "granted_patents": 2,
+        "grant_rate": 18.2
+      },
+      {
+        "name": "University of Applied Sciences and Arts Hildesheim/Holzminden/Gttingen",
+        "total_students": 6440,
+        "total_applications": 26,
+        "granted_patents": 18,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "University of Augsburg",
+        "total_students": 19975,
+        "total_applications": 9,
+        "granted_patents": 4,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "University of Bayreuth",
+        "total_students": 12773,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "University of Bonn",
+        "total_students": 36805,
+        "total_applications": 172,
+        "granted_patents": 58,
+        "grant_rate": 33.7
+      },
+      {
+        "name": "University of Bremen",
+        "total_students": 17984,
+        "total_applications": 61,
+        "granted_patents": 25,
+        "grant_rate": 41.0
+      },
+      {
+        "name": "University of Cologne",
+        "total_students": 52204,
+        "total_applications": 122,
+        "granted_patents": 43,
+        "grant_rate": 35.2
+      },
+      {
+        "name": "University of Duisburg-Essen",
+        "total_students": 41322,
+        "total_applications": 116,
+        "granted_patents": 51,
+        "grant_rate": 44.0
+      },
+      {
+        "name": "University of Erlangen-Nrnberg",
+        "total_students": 37728,
+        "total_applications": 553,
+        "granted_patents": 210,
+        "grant_rate": 38.0
+      },
+      {
+        "name": "University of Freiburg",
+        "total_students": 23938,
+        "total_applications": 537,
+        "granted_patents": 241,
+        "grant_rate": 44.9
+      },
+      {
+        "name": "University of Greifswald",
+        "total_students": 10366,
+        "total_applications": 46,
+        "granted_patents": 13,
+        "grant_rate": 28.3
+      },
+      {
+        "name": "University of Hamburg",
+        "total_students": 43110,
+        "total_applications": 200,
+        "granted_patents": 50,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "University of Hannover",
+        "total_students": 28817,
+        "total_applications": 119,
+        "granted_patents": 49,
+        "grant_rate": 41.2
+      },
+      {
+        "name": "University of Hohenheim",
+        "total_students": 8392,
+        "total_applications": 24,
+        "granted_patents": 12,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "University of Kaiserslautern",
+        "total_students": 13607,
+        "total_applications": 44,
+        "granted_patents": 27,
+        "grant_rate": 61.4
+      },
+      {
+        "name": "University of Kassel",
+        "total_students": 23552,
+        "total_applications": 110,
+        "granted_patents": 66,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "University of Kiel",
+        "total_students": 27468,
+        "total_applications": 148,
+        "granted_patents": 67,
+        "grant_rate": 45.3
+      },
+      {
+        "name": "University of Konstanz",
+        "total_students": 10939,
+        "total_applications": 63,
+        "granted_patents": 24,
+        "grant_rate": 38.1
+      },
+      {
+        "name": "University of Lbeck",
+        "total_students": 5968,
+        "total_applications": 43,
+        "granted_patents": 22,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "University of Mnster",
+        "total_students": 43728,
+        "total_applications": 201,
+        "granted_patents": 56,
+        "grant_rate": 27.9
+      },
+      {
+        "name": "University of Paderborn",
+        "total_students": 19110,
+        "total_applications": 39,
+        "granted_patents": 17,
+        "grant_rate": 43.6
+      },
+      {
+        "name": "University of Potsdam",
+        "total_students": 21454,
+        "total_applications": 48,
+        "granted_patents": 22,
+        "grant_rate": 45.8
+      },
+      {
+        "name": "University of Regensburg",
+        "total_students": 20702,
+        "total_applications": 115,
+        "granted_patents": 36,
+        "grant_rate": 31.3
+      },
+      {
+        "name": "University of Rostock",
+        "total_students": 12664,
+        "total_applications": 74,
+        "granted_patents": 35,
+        "grant_rate": 47.3
+      },
+      {
+        "name": "University of Siegen",
+        "total_students": 17805,
+        "total_applications": 22,
+        "granted_patents": 8,
+        "grant_rate": 36.4
+      },
+      {
+        "name": "University of Stuttgart",
+        "total_students": 22616,
+        "total_applications": 307,
+        "granted_patents": 132,
+        "grant_rate": 43.0
+      },
+      {
+        "name": "University of Wuppertal",
+        "total_students": 22601,
+        "total_applications": 16,
+        "granted_patents": 8,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "University of Wrzburg",
+        "total_students": 27149,
+        "total_applications": 227,
+        "granted_patents": 74,
+        "grant_rate": 32.6
+      },
+      {
+        "name": "Westflische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+        "total_students": 8143,
+        "total_applications": 13,
+        "granted_patents": 8,
+        "grant_rate": 61.5
+      }
+    ],
+    "by_students": [
+      {
+        "name": "University of Cologne",
+        "total_students": 52204,
+        "total_applications": 122,
+        "granted_patents": 43,
+        "grant_rate": 35.2
+      },
+      {
+        "name": "Ludwig Maximilian University of Munich",
+        "total_students": 51005,
+        "total_applications": 307,
+        "granted_patents": 105,
+        "grant_rate": 34.2
+      },
+      {
+        "name": "Aachen University",
+        "total_students": 47521,
+        "total_applications": 351,
+        "granted_patents": 137,
+        "grant_rate": 39.0
+      },
+      {
+        "name": "Technical University of Munich",
+        "total_students": 47047,
+        "total_applications": 647,
+        "granted_patents": 208,
+        "grant_rate": 32.1
+      },
+      {
+        "name": "University of Mnster",
+        "total_students": 43728,
+        "total_applications": 201,
+        "granted_patents": 56,
+        "grant_rate": 27.9
+      },
+      {
+        "name": "Frankfurt University",
+        "total_students": 43461,
+        "total_applications": 140,
+        "granted_patents": 37,
+        "grant_rate": 26.4
+      },
+      {
+        "name": "University of Hamburg",
+        "total_students": 43110,
+        "total_applications": 200,
+        "granted_patents": 50,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "Ruhr-University Bochum",
+        "total_students": 42088,
+        "total_applications": 71,
+        "granted_patents": 31,
+        "grant_rate": 43.7
+      },
+      {
+        "name": "University of Duisburg-Essen",
+        "total_students": 41322,
+        "total_applications": 116,
+        "granted_patents": 51,
+        "grant_rate": 44.0
+      },
+      {
+        "name": "University of Erlangen-Nrnberg",
+        "total_students": 37728,
+        "total_applications": 553,
+        "granted_patents": 210,
+        "grant_rate": 38.0
+      },
+      {
+        "name": "Free University of Berlin",
+        "total_students": 37608,
+        "total_applications": 164,
+        "granted_patents": 58,
+        "grant_rate": 35.4
+      },
+      {
+        "name": "University of Bonn",
+        "total_students": 36805,
+        "total_applications": 172,
+        "granted_patents": 58,
+        "grant_rate": 33.7
+      },
+      {
+        "name": "Humboldt University of Berlin",
+        "total_students": 36378,
+        "total_applications": 72,
+        "granted_patents": 34,
+        "grant_rate": 47.2
+      },
+      {
+        "name": "Technical University of Berlin",
+        "total_students": 35149,
+        "total_applications": 388,
+        "granted_patents": 207,
+        "grant_rate": 53.4
+      },
+      {
+        "name": "Heinrich Heine University Dsseldorf",
+        "total_students": 33942,
+        "total_applications": 70,
+        "granted_patents": 27,
+        "grant_rate": 38.6
+      },
+      {
+        "name": "TU Dortmund University",
+        "total_students": 32228,
+        "total_applications": 95,
+        "granted_patents": 41,
+        "grant_rate": 43.2
+      },
+      {
+        "name": "Johannes Gutenberg University Mainz",
+        "total_students": 30461,
+        "total_applications": 333,
+        "granted_patents": 148,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "Leipzig University",
+        "total_students": 29927,
+        "total_applications": 91,
+        "granted_patents": 47,
+        "grant_rate": 51.6
+      },
+      {
+        "name": "Technische Universitt Dresden",
+        "total_students": 29286,
+        "total_applications": 492,
+        "granted_patents": 265,
+        "grant_rate": 53.9
+      },
+      {
+        "name": "University of Hannover",
+        "total_students": 28817,
+        "total_applications": 119,
+        "granted_patents": 49,
+        "grant_rate": 41.2
+      },
+      {
+        "name": "Heidelberg University",
+        "total_students": 28448,
+        "total_applications": 420,
+        "granted_patents": 166,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Tbingen University",
+        "total_students": 27770,
+        "total_applications": 265,
+        "granted_patents": 137,
+        "grant_rate": 51.7
+      },
+      {
+        "name": "University of Kiel",
+        "total_students": 27468,
+        "total_applications": 148,
+        "granted_patents": 67,
+        "grant_rate": 45.3
+      },
+      {
+        "name": "Justus Liebig University Giessen",
+        "total_students": 27184,
+        "total_applications": 139,
+        "granted_patents": 47,
+        "grant_rate": 33.8
+      },
+      {
+        "name": "University of Wrzburg",
+        "total_students": 27149,
+        "total_applications": 227,
+        "granted_patents": 74,
+        "grant_rate": 32.6
+      },
+      {
+        "name": "Cologne University of Applied Sciences",
+        "total_students": 25672,
+        "total_applications": 15,
+        "granted_patents": 8,
+        "grant_rate": 53.3
+      },
+      {
+        "name": "Technical University of Darmstadt",
+        "total_students": 24969,
+        "total_applications": 201,
+        "granted_patents": 99,
+        "grant_rate": 49.3
+      },
+      {
+        "name": "Bielefeld University",
+        "total_students": 24488,
+        "total_applications": 43,
+        "granted_patents": 17,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "University of Freiburg",
+        "total_students": 23938,
+        "total_applications": 537,
+        "granted_patents": 241,
+        "grant_rate": 44.9
+      },
+      {
+        "name": "University of Kassel",
+        "total_students": 23552,
+        "total_applications": 110,
+        "granted_patents": 66,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "University of Stuttgart",
+        "total_students": 22616,
+        "total_applications": 307,
+        "granted_patents": 132,
+        "grant_rate": 43.0
+      },
+      {
+        "name": "University of Wuppertal",
+        "total_students": 22601,
+        "total_applications": 16,
+        "granted_patents": 8,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Karlsruhe Institute of Technology",
+        "total_students": 21848,
+        "total_applications": 1269,
+        "granted_patents": 811,
+        "grant_rate": 63.9
+      },
+      {
+        "name": "Philipps University of Marburg",
+        "total_students": 21723,
+        "total_applications": 129,
+        "granted_patents": 48,
+        "grant_rate": 37.2
+      },
+      {
+        "name": "University of Potsdam",
+        "total_students": 21454,
+        "total_applications": 48,
+        "granted_patents": 22,
+        "grant_rate": 45.8
+      },
+      {
+        "name": "Martin Luther University",
+        "total_students": 20757,
+        "total_applications": 32,
+        "granted_patents": 8,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "University of Regensburg",
+        "total_students": 20702,
+        "total_applications": 115,
+        "granted_patents": 36,
+        "grant_rate": 31.3
+      },
+      {
+        "name": "University of Augsburg",
+        "total_students": 19975,
+        "total_applications": 9,
+        "granted_patents": 4,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "University of Paderborn",
+        "total_students": 19110,
+        "total_applications": 39,
+        "granted_patents": 17,
+        "grant_rate": 43.6
+      },
+      {
+        "name": "Munich University of Applied Sciences",
+        "total_students": 18192,
+        "total_applications": 30,
+        "granted_patents": 10,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "University of Bremen",
+        "total_students": 17984,
+        "total_applications": 61,
+        "granted_patents": 25,
+        "grant_rate": 41.0
+      },
+      {
+        "name": "Technische Hochschule Mittelhessen",
+        "total_students": 17930,
+        "total_applications": 41,
+        "granted_patents": 21,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "University of Siegen",
+        "total_students": 17805,
+        "total_applications": 22,
+        "granted_patents": 8,
+        "grant_rate": 36.4
+      },
+      {
+        "name": "Brunswick University of Technology",
+        "total_students": 17794,
+        "total_applications": 118,
+        "granted_patents": 57,
+        "grant_rate": 48.3
+      },
+      {
+        "name": "Friedrich-Schiller-University of Jena",
+        "total_students": 17345,
+        "total_applications": 183,
+        "granted_patents": 94,
+        "grant_rate": 51.4
+      },
+      {
+        "name": "Hamburg University of Applied Sciences",
+        "total_students": 16877,
+        "total_applications": 8,
+        "granted_patents": 3,
+        "grant_rate": 37.5
+      },
+      {
+        "name": "Saarland University",
+        "total_students": 16240,
+        "total_applications": 126,
+        "granted_patents": 38,
+        "grant_rate": 30.2
+      },
+      {
+        "name": "Darmstadt University of Applied Sciences",
+        "total_students": 16180,
+        "total_applications": 9,
+        "granted_patents": 6,
+        "grant_rate": 66.7
+      },
+      {
+        "name": "Carl von Ossietzky the University of Oldenburg",
+        "total_students": 15368,
+        "total_applications": 15,
+        "granted_patents": 9,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Mnster University of Applied Sciences",
+        "total_students": 15297,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Aachen University of Applied Sciences",
+        "total_students": 14792,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Berlin University of Applied Sciences",
+        "total_students": 14326,
+        "total_applications": 20,
+        "granted_patents": 7,
+        "grant_rate": 35.0
+      },
+      {
+        "name": "Niederrhein University of Applied Sciences",
+        "total_students": 13748,
+        "total_applications": 10,
+        "granted_patents": 7,
+        "grant_rate": 70.0
+      },
+      {
+        "name": "Osnabrck University",
+        "total_students": 13628,
+        "total_applications": 12,
+        "granted_patents": 4,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "University of Kaiserslautern",
+        "total_students": 13607,
+        "total_applications": 44,
+        "granted_patents": 27,
+        "grant_rate": 61.4
+      },
+      {
+        "name": "RheinMain University of Applied Sciences",
+        "total_students": 13482,
+        "total_applications": 10,
+        "granted_patents": 5,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Otto von Guericke University of Magdeburg",
+        "total_students": 13143,
+        "total_applications": 101,
+        "granted_patents": 25,
+        "grant_rate": 24.8
+      },
+      {
+        "name": "Technische Hochschule Nrnberg Georg Simon Ohm",
+        "total_students": 12924,
+        "total_applications": 27,
+        "granted_patents": 8,
+        "grant_rate": 29.6
+      },
+      {
+        "name": "University of Bayreuth",
+        "total_students": 12773,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "University of Rostock",
+        "total_students": 12664,
+        "total_applications": 74,
+        "granted_patents": 35,
+        "grant_rate": 47.3
+      },
+      {
+        "name": "University of Konstanz",
+        "total_students": 10939,
+        "total_applications": 63,
+        "granted_patents": 24,
+        "grant_rate": 38.1
+      },
+      {
+        "name": "Ostbayerische Technische Hochschule Regensburg",
+        "total_students": 10586,
+        "total_applications": 26,
+        "granted_patents": 9,
+        "grant_rate": 34.6
+      },
+      {
+        "name": "University of Greifswald",
+        "total_students": 10366,
+        "total_applications": 46,
+        "granted_patents": 13,
+        "grant_rate": 28.3
+      },
+      {
+        "name": "Ulm University",
+        "total_students": 10164,
+        "total_applications": 82,
+        "granted_patents": 28,
+        "grant_rate": 34.1
+      },
+      {
+        "name": "Chemnitz University of Technology",
+        "total_students": 9670,
+        "total_applications": 44,
+        "granted_patents": 21,
+        "grant_rate": 47.7
+      },
+      {
+        "name": "University of Hohenheim",
+        "total_students": 8392,
+        "total_applications": 24,
+        "granted_patents": 12,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Westflische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+        "total_students": 8143,
+        "total_applications": 13,
+        "granted_patents": 8,
+        "grant_rate": 61.5
+      },
+      {
+        "name": "Kiel University of Applied Sciences",
+        "total_students": 7821,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Hamburg University of Technology",
+        "total_students": 7157,
+        "total_applications": 79,
+        "granted_patents": 38,
+        "grant_rate": 48.1
+      },
+      {
+        "name": "Karlsruhe University of Applied Sciences",
+        "total_students": 7141,
+        "total_applications": 20,
+        "granted_patents": 9,
+        "grant_rate": 45.0
+      },
+      {
+        "name": "Anhalt University of Applied Sciences",
+        "total_students": 7052,
+        "total_applications": 23,
+        "granted_patents": 10,
+        "grant_rate": 43.5
+      },
+      {
+        "name": "Trier University of Applied Sciences",
+        "total_students": 6954,
+        "total_applications": 13,
+        "granted_patents": 4,
+        "grant_rate": 30.8
+      },
+      {
+        "name": "Brandenburg University of Technology (BTU) Cottbus Senftenberg",
+        "total_students": 6830,
+        "total_applications": 58,
+        "granted_patents": 23,
+        "grant_rate": 39.7
+      },
+      {
+        "name": "Rosenheim University of Applied Sciences",
+        "total_students": 6463,
+        "total_applications": 7,
+        "granted_patents": 6,
+        "grant_rate": 85.7
+      },
+      {
+        "name": "University of Applied Sciences and Arts Hildesheim/Holzminden/Gttingen",
+        "total_students": 6440,
+        "total_applications": 26,
+        "granted_patents": 18,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Technische Hochschule Ingolstadt",
+        "total_students": 6342,
+        "total_applications": 16,
+        "granted_patents": 7,
+        "grant_rate": 43.8
+      },
+      {
+        "name": "Ostwestfalen-Lippe University of Applied Sciences",
+        "total_students": 6203,
+        "total_applications": 17,
+        "granted_patents": 6,
+        "grant_rate": 35.3
+      },
+      {
+        "name": "Kaiserslautern University of Applied Sciences",
+        "total_students": 6170,
+        "total_applications": 11,
+        "granted_patents": 7,
+        "grant_rate": 63.6
+      },
+      {
+        "name": "University of Applied Sciences Saarbrcken",
+        "total_students": 6088,
+        "total_applications": 11,
+        "granted_patents": 2,
+        "grant_rate": 18.2
+      },
+      {
+        "name": "University of Lbeck",
+        "total_students": 5968,
+        "total_applications": 43,
+        "granted_patents": 22,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "Aalen University",
+        "total_students": 5746,
+        "total_applications": 7,
+        "granted_patents": 3,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Furtwangen University",
+        "total_students": 5700,
+        "total_applications": 13,
+        "granted_patents": 5,
+        "grant_rate": 38.5
+      },
+      {
+        "name": "University of Applied Sciences Mannheim",
+        "total_students": 5583,
+        "total_applications": 15,
+        "granted_patents": 4,
+        "grant_rate": 26.7
+      },
+      {
+        "name": "Kempten University of Applied Sciences",
+        "total_students": 5337,
+        "total_applications": 13,
+        "granted_patents": 9,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Technical University Lbeck",
+        "total_students": 5204,
+        "total_applications": 11,
+        "granted_patents": 6,
+        "grant_rate": 54.5
+      },
+      {
+        "name": "Coburg University of Applied Sciences",
+        "total_students": 5025,
+        "total_applications": 15,
+        "granted_patents": 13,
+        "grant_rate": 86.7
+      },
+      {
+        "name": "Ilmenau University of Technology",
+        "total_students": 4889,
+        "total_applications": 104,
+        "granted_patents": 59,
+        "grant_rate": 56.7
+      },
+      {
+        "name": "Konstanz University of Applied Sciences",
+        "total_students": 4670,
+        "total_applications": 8,
+        "granted_patents": 4,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "University of Applied Sciences Jena",
+        "total_students": 4534,
+        "total_applications": 19,
+        "granted_patents": 11,
+        "grant_rate": 57.9
+      },
+      {
+        "name": "Offenburg University",
+        "total_students": 4161,
+        "total_applications": 12,
+        "granted_patents": 7,
+        "grant_rate": 58.3
+      },
+      {
+        "name": "Bauhaus-Universitt Weimar",
+        "total_students": 3988,
+        "total_applications": 12,
+        "granted_patents": 6,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Bundeswehr University Munich",
+        "total_students": 3973,
+        "total_applications": 35,
+        "granted_patents": 7,
+        "grant_rate": 20.0
+      },
+      {
+        "name": "Hannover Medical School",
+        "total_students": 3843,
+        "total_applications": 235,
+        "granted_patents": 95,
+        "grant_rate": 40.4
+      },
+      {
+        "name": "Technische Universitt Bergakademie Freiberg",
+        "total_students": 3574,
+        "total_applications": 49,
+        "granted_patents": 20,
+        "grant_rate": 40.8
+      },
+      {
+        "name": "Technical University of Applied Sciences Wildau",
+        "total_students": 3462,
+        "total_applications": 15,
+        "granted_patents": 5,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Clausthal University of Technology",
+        "total_students": 3446,
+        "total_applications": 49,
+        "granted_patents": 24,
+        "grant_rate": 49.0
+      },
+      {
+        "name": "Aschaffenburg University of Applied Sciences",
+        "total_students": 3424,
+        "total_applications": 7,
+        "granted_patents": 4,
+        "grant_rate": 57.1
+      },
+      {
+        "name": "Helmut Schmidt University of the Federal Armed Forces Hamburg",
+        "total_students": 2599,
+        "total_applications": 45,
+        "granted_patents": 23,
+        "grant_rate": 51.1
+      },
+      {
+        "name": "Jacobs University Bremen",
+        "total_students": 1531,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Fachhochschule Dresden (Priv. FH)",
+        "total_students": 550,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      }
+    ],
+    "by_applications": [
+      {
+        "name": "Karlsruhe Institute of Technology",
+        "total_students": 21848,
+        "total_applications": 1269,
+        "granted_patents": 811,
+        "grant_rate": 63.9
+      },
+      {
+        "name": "Technical University of Munich",
+        "total_students": 47047,
+        "total_applications": 647,
+        "granted_patents": 208,
+        "grant_rate": 32.1
+      },
+      {
+        "name": "University of Erlangen-Nrnberg",
+        "total_students": 37728,
+        "total_applications": 553,
+        "granted_patents": 210,
+        "grant_rate": 38.0
+      },
+      {
+        "name": "University of Freiburg",
+        "total_students": 23938,
+        "total_applications": 537,
+        "granted_patents": 241,
+        "grant_rate": 44.9
+      },
+      {
+        "name": "Technische Universitt Dresden",
+        "total_students": 29286,
+        "total_applications": 492,
+        "granted_patents": 265,
+        "grant_rate": 53.9
+      },
+      {
+        "name": "Heidelberg University",
+        "total_students": 28448,
+        "total_applications": 420,
+        "granted_patents": 166,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Technical University of Berlin",
+        "total_students": 35149,
+        "total_applications": 388,
+        "granted_patents": 207,
+        "grant_rate": 53.4
+      },
+      {
+        "name": "Aachen University",
+        "total_students": 47521,
+        "total_applications": 351,
+        "granted_patents": 137,
+        "grant_rate": 39.0
+      },
+      {
+        "name": "Johannes Gutenberg University Mainz",
+        "total_students": 30461,
+        "total_applications": 333,
+        "granted_patents": 148,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "Ludwig Maximilian University of Munich",
+        "total_students": 51005,
+        "total_applications": 307,
+        "granted_patents": 105,
+        "grant_rate": 34.2
+      },
+      {
+        "name": "University of Stuttgart",
+        "total_students": 22616,
+        "total_applications": 307,
+        "granted_patents": 132,
+        "grant_rate": 43.0
+      },
+      {
+        "name": "Tbingen University",
+        "total_students": 27770,
+        "total_applications": 265,
+        "granted_patents": 137,
+        "grant_rate": 51.7
+      },
+      {
+        "name": "Hannover Medical School",
+        "total_students": 3843,
+        "total_applications": 235,
+        "granted_patents": 95,
+        "grant_rate": 40.4
+      },
+      {
+        "name": "University of Wrzburg",
+        "total_students": 27149,
+        "total_applications": 227,
+        "granted_patents": 74,
+        "grant_rate": 32.6
+      },
+      {
+        "name": "Technical University of Darmstadt",
+        "total_students": 24969,
+        "total_applications": 201,
+        "granted_patents": 99,
+        "grant_rate": 49.3
+      },
+      {
+        "name": "University of Mnster",
+        "total_students": 43728,
+        "total_applications": 201,
+        "granted_patents": 56,
+        "grant_rate": 27.9
+      },
+      {
+        "name": "University of Hamburg",
+        "total_students": 43110,
+        "total_applications": 200,
+        "granted_patents": 50,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "Friedrich-Schiller-University of Jena",
+        "total_students": 17345,
+        "total_applications": 183,
+        "granted_patents": 94,
+        "grant_rate": 51.4
+      },
+      {
+        "name": "University of Bonn",
+        "total_students": 36805,
+        "total_applications": 172,
+        "granted_patents": 58,
+        "grant_rate": 33.7
+      },
+      {
+        "name": "Free University of Berlin",
+        "total_students": 37608,
+        "total_applications": 164,
+        "granted_patents": 58,
+        "grant_rate": 35.4
+      },
+      {
+        "name": "University of Kiel",
+        "total_students": 27468,
+        "total_applications": 148,
+        "granted_patents": 67,
+        "grant_rate": 45.3
+      },
+      {
+        "name": "Frankfurt University",
+        "total_students": 43461,
+        "total_applications": 140,
+        "granted_patents": 37,
+        "grant_rate": 26.4
+      },
+      {
+        "name": "Justus Liebig University Giessen",
+        "total_students": 27184,
+        "total_applications": 139,
+        "granted_patents": 47,
+        "grant_rate": 33.8
+      },
+      {
+        "name": "Philipps University of Marburg",
+        "total_students": 21723,
+        "total_applications": 129,
+        "granted_patents": 48,
+        "grant_rate": 37.2
+      },
+      {
+        "name": "Saarland University",
+        "total_students": 16240,
+        "total_applications": 126,
+        "granted_patents": 38,
+        "grant_rate": 30.2
+      },
+      {
+        "name": "University of Cologne",
+        "total_students": 52204,
+        "total_applications": 122,
+        "granted_patents": 43,
+        "grant_rate": 35.2
+      },
+      {
+        "name": "University of Hannover",
+        "total_students": 28817,
+        "total_applications": 119,
+        "granted_patents": 49,
+        "grant_rate": 41.2
+      },
+      {
+        "name": "Brunswick University of Technology",
+        "total_students": 17794,
+        "total_applications": 118,
+        "granted_patents": 57,
+        "grant_rate": 48.3
+      },
+      {
+        "name": "University of Duisburg-Essen",
+        "total_students": 41322,
+        "total_applications": 116,
+        "granted_patents": 51,
+        "grant_rate": 44.0
+      },
+      {
+        "name": "University of Regensburg",
+        "total_students": 20702,
+        "total_applications": 115,
+        "granted_patents": 36,
+        "grant_rate": 31.3
+      },
+      {
+        "name": "University of Kassel",
+        "total_students": 23552,
+        "total_applications": 110,
+        "granted_patents": 66,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Ilmenau University of Technology",
+        "total_students": 4889,
+        "total_applications": 104,
+        "granted_patents": 59,
+        "grant_rate": 56.7
+      },
+      {
+        "name": "Otto von Guericke University of Magdeburg",
+        "total_students": 13143,
+        "total_applications": 101,
+        "granted_patents": 25,
+        "grant_rate": 24.8
+      },
+      {
+        "name": "TU Dortmund University",
+        "total_students": 32228,
+        "total_applications": 95,
+        "granted_patents": 41,
+        "grant_rate": 43.2
+      },
+      {
+        "name": "Leipzig University",
+        "total_students": 29927,
+        "total_applications": 91,
+        "granted_patents": 47,
+        "grant_rate": 51.6
+      },
+      {
+        "name": "Ulm University",
+        "total_students": 10164,
+        "total_applications": 82,
+        "granted_patents": 28,
+        "grant_rate": 34.1
+      },
+      {
+        "name": "Hamburg University of Technology",
+        "total_students": 7157,
+        "total_applications": 79,
+        "granted_patents": 38,
+        "grant_rate": 48.1
+      },
+      {
+        "name": "University of Rostock",
+        "total_students": 12664,
+        "total_applications": 74,
+        "granted_patents": 35,
+        "grant_rate": 47.3
+      },
+      {
+        "name": "Humboldt University of Berlin",
+        "total_students": 36378,
+        "total_applications": 72,
+        "granted_patents": 34,
+        "grant_rate": 47.2
+      },
+      {
+        "name": "Ruhr-University Bochum",
+        "total_students": 42088,
+        "total_applications": 71,
+        "granted_patents": 31,
+        "grant_rate": 43.7
+      },
+      {
+        "name": "Heinrich Heine University Dsseldorf",
+        "total_students": 33942,
+        "total_applications": 70,
+        "granted_patents": 27,
+        "grant_rate": 38.6
+      },
+      {
+        "name": "University of Konstanz",
+        "total_students": 10939,
+        "total_applications": 63,
+        "granted_patents": 24,
+        "grant_rate": 38.1
+      },
+      {
+        "name": "University of Bremen",
+        "total_students": 17984,
+        "total_applications": 61,
+        "granted_patents": 25,
+        "grant_rate": 41.0
+      },
+      {
+        "name": "Brandenburg University of Technology (BTU) Cottbus Senftenberg",
+        "total_students": 6830,
+        "total_applications": 58,
+        "granted_patents": 23,
+        "grant_rate": 39.7
+      },
+      {
+        "name": "Technische Universitt Bergakademie Freiberg",
+        "total_students": 3574,
+        "total_applications": 49,
+        "granted_patents": 20,
+        "grant_rate": 40.8
+      },
+      {
+        "name": "Clausthal University of Technology",
+        "total_students": 3446,
+        "total_applications": 49,
+        "granted_patents": 24,
+        "grant_rate": 49.0
+      },
+      {
+        "name": "University of Potsdam",
+        "total_students": 21454,
+        "total_applications": 48,
+        "granted_patents": 22,
+        "grant_rate": 45.8
+      },
+      {
+        "name": "University of Greifswald",
+        "total_students": 10366,
+        "total_applications": 46,
+        "granted_patents": 13,
+        "grant_rate": 28.3
+      },
+      {
+        "name": "Helmut Schmidt University of the Federal Armed Forces Hamburg",
+        "total_students": 2599,
+        "total_applications": 45,
+        "granted_patents": 23,
+        "grant_rate": 51.1
+      },
+      {
+        "name": "University of Kaiserslautern",
+        "total_students": 13607,
+        "total_applications": 44,
+        "granted_patents": 27,
+        "grant_rate": 61.4
+      },
+      {
+        "name": "Chemnitz University of Technology",
+        "total_students": 9670,
+        "total_applications": 44,
+        "granted_patents": 21,
+        "grant_rate": 47.7
+      },
+      {
+        "name": "University of Lbeck",
+        "total_students": 5968,
+        "total_applications": 43,
+        "granted_patents": 22,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "Bielefeld University",
+        "total_students": 24488,
+        "total_applications": 43,
+        "granted_patents": 17,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Technische Hochschule Mittelhessen",
+        "total_students": 17930,
+        "total_applications": 41,
+        "granted_patents": 21,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "University of Paderborn",
+        "total_students": 19110,
+        "total_applications": 39,
+        "granted_patents": 17,
+        "grant_rate": 43.6
+      },
+      {
+        "name": "Bundeswehr University Munich",
+        "total_students": 3973,
+        "total_applications": 35,
+        "granted_patents": 7,
+        "grant_rate": 20.0
+      },
+      {
+        "name": "University of Bayreuth",
+        "total_students": 12773,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Jacobs University Bremen",
+        "total_students": 1531,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Martin Luther University",
+        "total_students": 20757,
+        "total_applications": 32,
+        "granted_patents": 8,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "Munich University of Applied Sciences",
+        "total_students": 18192,
+        "total_applications": 30,
+        "granted_patents": 10,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Technische Hochschule Nrnberg Georg Simon Ohm",
+        "total_students": 12924,
+        "total_applications": 27,
+        "granted_patents": 8,
+        "grant_rate": 29.6
+      },
+      {
+        "name": "Ostbayerische Technische Hochschule Regensburg",
+        "total_students": 10586,
+        "total_applications": 26,
+        "granted_patents": 9,
+        "grant_rate": 34.6
+      },
+      {
+        "name": "University of Applied Sciences and Arts Hildesheim/Holzminden/Gttingen",
+        "total_students": 6440,
+        "total_applications": 26,
+        "granted_patents": 18,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "University of Hohenheim",
+        "total_students": 8392,
+        "total_applications": 24,
+        "granted_patents": 12,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Anhalt University of Applied Sciences",
+        "total_students": 7052,
+        "total_applications": 23,
+        "granted_patents": 10,
+        "grant_rate": 43.5
+      },
+      {
+        "name": "University of Siegen",
+        "total_students": 17805,
+        "total_applications": 22,
+        "granted_patents": 8,
+        "grant_rate": 36.4
+      },
+      {
+        "name": "Aachen University of Applied Sciences",
+        "total_students": 14792,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Fachhochschule Dresden (Priv. FH)",
+        "total_students": 550,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Karlsruhe University of Applied Sciences",
+        "total_students": 7141,
+        "total_applications": 20,
+        "granted_patents": 9,
+        "grant_rate": 45.0
+      },
+      {
+        "name": "Berlin University of Applied Sciences",
+        "total_students": 14326,
+        "total_applications": 20,
+        "granted_patents": 7,
+        "grant_rate": 35.0
+      },
+      {
+        "name": "University of Applied Sciences Jena",
+        "total_students": 4534,
+        "total_applications": 19,
+        "granted_patents": 11,
+        "grant_rate": 57.9
+      },
+      {
+        "name": "Mnster University of Applied Sciences",
+        "total_students": 15297,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Ostwestfalen-Lippe University of Applied Sciences",
+        "total_students": 6203,
+        "total_applications": 17,
+        "granted_patents": 6,
+        "grant_rate": 35.3
+      },
+      {
+        "name": "Kiel University of Applied Sciences",
+        "total_students": 7821,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Technische Hochschule Ingolstadt",
+        "total_students": 6342,
+        "total_applications": 16,
+        "granted_patents": 7,
+        "grant_rate": 43.8
+      },
+      {
+        "name": "University of Wuppertal",
+        "total_students": 22601,
+        "total_applications": 16,
+        "granted_patents": 8,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Coburg University of Applied Sciences",
+        "total_students": 5025,
+        "total_applications": 15,
+        "granted_patents": 13,
+        "grant_rate": 86.7
+      },
+      {
+        "name": "University of Applied Sciences Mannheim",
+        "total_students": 5583,
+        "total_applications": 15,
+        "granted_patents": 4,
+        "grant_rate": 26.7
+      },
+      {
+        "name": "Cologne University of Applied Sciences",
+        "total_students": 25672,
+        "total_applications": 15,
+        "granted_patents": 8,
+        "grant_rate": 53.3
+      },
+      {
+        "name": "Technical University of Applied Sciences Wildau",
+        "total_students": 3462,
+        "total_applications": 15,
+        "granted_patents": 5,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Carl von Ossietzky the University of Oldenburg",
+        "total_students": 15368,
+        "total_applications": 15,
+        "granted_patents": 9,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Kempten University of Applied Sciences",
+        "total_students": 5337,
+        "total_applications": 13,
+        "granted_patents": 9,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Furtwangen University",
+        "total_students": 5700,
+        "total_applications": 13,
+        "granted_patents": 5,
+        "grant_rate": 38.5
+      },
+      {
+        "name": "Trier University of Applied Sciences",
+        "total_students": 6954,
+        "total_applications": 13,
+        "granted_patents": 4,
+        "grant_rate": 30.8
+      },
+      {
+        "name": "Westflische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+        "total_students": 8143,
+        "total_applications": 13,
+        "granted_patents": 8,
+        "grant_rate": 61.5
+      },
+      {
+        "name": "Offenburg University",
+        "total_students": 4161,
+        "total_applications": 12,
+        "granted_patents": 7,
+        "grant_rate": 58.3
+      },
+      {
+        "name": "Bauhaus-Universitt Weimar",
+        "total_students": 3988,
+        "total_applications": 12,
+        "granted_patents": 6,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Osnabrck University",
+        "total_students": 13628,
+        "total_applications": 12,
+        "granted_patents": 4,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "University of Applied Sciences Saarbrcken",
+        "total_students": 6088,
+        "total_applications": 11,
+        "granted_patents": 2,
+        "grant_rate": 18.2
+      },
+      {
+        "name": "Kaiserslautern University of Applied Sciences",
+        "total_students": 6170,
+        "total_applications": 11,
+        "granted_patents": 7,
+        "grant_rate": 63.6
+      },
+      {
+        "name": "Technical University Lbeck",
+        "total_students": 5204,
+        "total_applications": 11,
+        "granted_patents": 6,
+        "grant_rate": 54.5
+      },
+      {
+        "name": "RheinMain University of Applied Sciences",
+        "total_students": 13482,
+        "total_applications": 10,
+        "granted_patents": 5,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Niederrhein University of Applied Sciences",
+        "total_students": 13748,
+        "total_applications": 10,
+        "granted_patents": 7,
+        "grant_rate": 70.0
+      },
+      {
+        "name": "University of Augsburg",
+        "total_students": 19975,
+        "total_applications": 9,
+        "granted_patents": 4,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "Darmstadt University of Applied Sciences",
+        "total_students": 16180,
+        "total_applications": 9,
+        "granted_patents": 6,
+        "grant_rate": 66.7
+      },
+      {
+        "name": "Konstanz University of Applied Sciences",
+        "total_students": 4670,
+        "total_applications": 8,
+        "granted_patents": 4,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Hamburg University of Applied Sciences",
+        "total_students": 16877,
+        "total_applications": 8,
+        "granted_patents": 3,
+        "grant_rate": 37.5
+      },
+      {
+        "name": "Rosenheim University of Applied Sciences",
+        "total_students": 6463,
+        "total_applications": 7,
+        "granted_patents": 6,
+        "grant_rate": 85.7
+      },
+      {
+        "name": "Aalen University",
+        "total_students": 5746,
+        "total_applications": 7,
+        "granted_patents": 3,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Aschaffenburg University of Applied Sciences",
+        "total_students": 3424,
+        "total_applications": 7,
+        "granted_patents": 4,
+        "grant_rate": 57.1
+      }
+    ],
+    "by_granted": [
+      {
+        "name": "Karlsruhe Institute of Technology",
+        "total_students": 21848,
+        "total_applications": 1269,
+        "granted_patents": 811,
+        "grant_rate": 63.9
+      },
+      {
+        "name": "Technische Universitt Dresden",
+        "total_students": 29286,
+        "total_applications": 492,
+        "granted_patents": 265,
+        "grant_rate": 53.9
+      },
+      {
+        "name": "University of Freiburg",
+        "total_students": 23938,
+        "total_applications": 537,
+        "granted_patents": 241,
+        "grant_rate": 44.9
+      },
+      {
+        "name": "University of Erlangen-Nrnberg",
+        "total_students": 37728,
+        "total_applications": 553,
+        "granted_patents": 210,
+        "grant_rate": 38.0
+      },
+      {
+        "name": "Technical University of Munich",
+        "total_students": 47047,
+        "total_applications": 647,
+        "granted_patents": 208,
+        "grant_rate": 32.1
+      },
+      {
+        "name": "Technical University of Berlin",
+        "total_students": 35149,
+        "total_applications": 388,
+        "granted_patents": 207,
+        "grant_rate": 53.4
+      },
+      {
+        "name": "Heidelberg University",
+        "total_students": 28448,
+        "total_applications": 420,
+        "granted_patents": 166,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Johannes Gutenberg University Mainz",
+        "total_students": 30461,
+        "total_applications": 333,
+        "granted_patents": 148,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "Aachen University",
+        "total_students": 47521,
+        "total_applications": 351,
+        "granted_patents": 137,
+        "grant_rate": 39.0
+      },
+      {
+        "name": "Tbingen University",
+        "total_students": 27770,
+        "total_applications": 265,
+        "granted_patents": 137,
+        "grant_rate": 51.7
+      },
+      {
+        "name": "University of Stuttgart",
+        "total_students": 22616,
+        "total_applications": 307,
+        "granted_patents": 132,
+        "grant_rate": 43.0
+      },
+      {
+        "name": "Ludwig Maximilian University of Munich",
+        "total_students": 51005,
+        "total_applications": 307,
+        "granted_patents": 105,
+        "grant_rate": 34.2
+      },
+      {
+        "name": "Technical University of Darmstadt",
+        "total_students": 24969,
+        "total_applications": 201,
+        "granted_patents": 99,
+        "grant_rate": 49.3
+      },
+      {
+        "name": "Hannover Medical School",
+        "total_students": 3843,
+        "total_applications": 235,
+        "granted_patents": 95,
+        "grant_rate": 40.4
+      },
+      {
+        "name": "Friedrich-Schiller-University of Jena",
+        "total_students": 17345,
+        "total_applications": 183,
+        "granted_patents": 94,
+        "grant_rate": 51.4
+      },
+      {
+        "name": "University of Wrzburg",
+        "total_students": 27149,
+        "total_applications": 227,
+        "granted_patents": 74,
+        "grant_rate": 32.6
+      },
+      {
+        "name": "University of Kiel",
+        "total_students": 27468,
+        "total_applications": 148,
+        "granted_patents": 67,
+        "grant_rate": 45.3
+      },
+      {
+        "name": "University of Kassel",
+        "total_students": 23552,
+        "total_applications": 110,
+        "granted_patents": 66,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Ilmenau University of Technology",
+        "total_students": 4889,
+        "total_applications": 104,
+        "granted_patents": 59,
+        "grant_rate": 56.7
+      },
+      {
+        "name": "University of Bonn",
+        "total_students": 36805,
+        "total_applications": 172,
+        "granted_patents": 58,
+        "grant_rate": 33.7
+      },
+      {
+        "name": "Free University of Berlin",
+        "total_students": 37608,
+        "total_applications": 164,
+        "granted_patents": 58,
+        "grant_rate": 35.4
+      },
+      {
+        "name": "Brunswick University of Technology",
+        "total_students": 17794,
+        "total_applications": 118,
+        "granted_patents": 57,
+        "grant_rate": 48.3
+      },
+      {
+        "name": "University of Mnster",
+        "total_students": 43728,
+        "total_applications": 201,
+        "granted_patents": 56,
+        "grant_rate": 27.9
+      },
+      {
+        "name": "University of Duisburg-Essen",
+        "total_students": 41322,
+        "total_applications": 116,
+        "granted_patents": 51,
+        "grant_rate": 44.0
+      },
+      {
+        "name": "University of Hamburg",
+        "total_students": 43110,
+        "total_applications": 200,
+        "granted_patents": 50,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "University of Hannover",
+        "total_students": 28817,
+        "total_applications": 119,
+        "granted_patents": 49,
+        "grant_rate": 41.2
+      },
+      {
+        "name": "Philipps University of Marburg",
+        "total_students": 21723,
+        "total_applications": 129,
+        "granted_patents": 48,
+        "grant_rate": 37.2
+      },
+      {
+        "name": "Justus Liebig University Giessen",
+        "total_students": 27184,
+        "total_applications": 139,
+        "granted_patents": 47,
+        "grant_rate": 33.8
+      },
+      {
+        "name": "Leipzig University",
+        "total_students": 29927,
+        "total_applications": 91,
+        "granted_patents": 47,
+        "grant_rate": 51.6
+      },
+      {
+        "name": "University of Cologne",
+        "total_students": 52204,
+        "total_applications": 122,
+        "granted_patents": 43,
+        "grant_rate": 35.2
+      },
+      {
+        "name": "TU Dortmund University",
+        "total_students": 32228,
+        "total_applications": 95,
+        "granted_patents": 41,
+        "grant_rate": 43.2
+      },
+      {
+        "name": "Saarland University",
+        "total_students": 16240,
+        "total_applications": 126,
+        "granted_patents": 38,
+        "grant_rate": 30.2
+      },
+      {
+        "name": "Hamburg University of Technology",
+        "total_students": 7157,
+        "total_applications": 79,
+        "granted_patents": 38,
+        "grant_rate": 48.1
+      },
+      {
+        "name": "Frankfurt University",
+        "total_students": 43461,
+        "total_applications": 140,
+        "granted_patents": 37,
+        "grant_rate": 26.4
+      },
+      {
+        "name": "University of Regensburg",
+        "total_students": 20702,
+        "total_applications": 115,
+        "granted_patents": 36,
+        "grant_rate": 31.3
+      },
+      {
+        "name": "University of Rostock",
+        "total_students": 12664,
+        "total_applications": 74,
+        "granted_patents": 35,
+        "grant_rate": 47.3
+      },
+      {
+        "name": "Humboldt University of Berlin",
+        "total_students": 36378,
+        "total_applications": 72,
+        "granted_patents": 34,
+        "grant_rate": 47.2
+      },
+      {
+        "name": "Ruhr-University Bochum",
+        "total_students": 42088,
+        "total_applications": 71,
+        "granted_patents": 31,
+        "grant_rate": 43.7
+      },
+      {
+        "name": "Ulm University",
+        "total_students": 10164,
+        "total_applications": 82,
+        "granted_patents": 28,
+        "grant_rate": 34.1
+      },
+      {
+        "name": "Heinrich Heine University Dsseldorf",
+        "total_students": 33942,
+        "total_applications": 70,
+        "granted_patents": 27,
+        "grant_rate": 38.6
+      },
+      {
+        "name": "University of Kaiserslautern",
+        "total_students": 13607,
+        "total_applications": 44,
+        "granted_patents": 27,
+        "grant_rate": 61.4
+      },
+      {
+        "name": "Otto von Guericke University of Magdeburg",
+        "total_students": 13143,
+        "total_applications": 101,
+        "granted_patents": 25,
+        "grant_rate": 24.8
+      },
+      {
+        "name": "University of Bremen",
+        "total_students": 17984,
+        "total_applications": 61,
+        "granted_patents": 25,
+        "grant_rate": 41.0
+      },
+      {
+        "name": "University of Konstanz",
+        "total_students": 10939,
+        "total_applications": 63,
+        "granted_patents": 24,
+        "grant_rate": 38.1
+      },
+      {
+        "name": "Clausthal University of Technology",
+        "total_students": 3446,
+        "total_applications": 49,
+        "granted_patents": 24,
+        "grant_rate": 49.0
+      },
+      {
+        "name": "Brandenburg University of Technology (BTU) Cottbus Senftenberg",
+        "total_students": 6830,
+        "total_applications": 58,
+        "granted_patents": 23,
+        "grant_rate": 39.7
+      },
+      {
+        "name": "Helmut Schmidt University of the Federal Armed Forces Hamburg",
+        "total_students": 2599,
+        "total_applications": 45,
+        "granted_patents": 23,
+        "grant_rate": 51.1
+      },
+      {
+        "name": "University of Lbeck",
+        "total_students": 5968,
+        "total_applications": 43,
+        "granted_patents": 22,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "University of Potsdam",
+        "total_students": 21454,
+        "total_applications": 48,
+        "granted_patents": 22,
+        "grant_rate": 45.8
+      },
+      {
+        "name": "Chemnitz University of Technology",
+        "total_students": 9670,
+        "total_applications": 44,
+        "granted_patents": 21,
+        "grant_rate": 47.7
+      },
+      {
+        "name": "Technische Hochschule Mittelhessen",
+        "total_students": 17930,
+        "total_applications": 41,
+        "granted_patents": 21,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "Technische Universitt Bergakademie Freiberg",
+        "total_students": 3574,
+        "total_applications": 49,
+        "granted_patents": 20,
+        "grant_rate": 40.8
+      },
+      {
+        "name": "University of Applied Sciences and Arts Hildesheim/Holzminden/Gttingen",
+        "total_students": 6440,
+        "total_applications": 26,
+        "granted_patents": 18,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Bielefeld University",
+        "total_students": 24488,
+        "total_applications": 43,
+        "granted_patents": 17,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "University of Paderborn",
+        "total_students": 19110,
+        "total_applications": 39,
+        "granted_patents": 17,
+        "grant_rate": 43.6
+      },
+      {
+        "name": "University of Bayreuth",
+        "total_students": 12773,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Jacobs University Bremen",
+        "total_students": 1531,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "University of Greifswald",
+        "total_students": 10366,
+        "total_applications": 46,
+        "granted_patents": 13,
+        "grant_rate": 28.3
+      },
+      {
+        "name": "Aachen University of Applied Sciences",
+        "total_students": 14792,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Fachhochschule Dresden (Priv. FH)",
+        "total_students": 550,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Coburg University of Applied Sciences",
+        "total_students": 5025,
+        "total_applications": 15,
+        "granted_patents": 13,
+        "grant_rate": 86.7
+      },
+      {
+        "name": "University of Hohenheim",
+        "total_students": 8392,
+        "total_applications": 24,
+        "granted_patents": 12,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "University of Applied Sciences Jena",
+        "total_students": 4534,
+        "total_applications": 19,
+        "granted_patents": 11,
+        "grant_rate": 57.9
+      },
+      {
+        "name": "Munich University of Applied Sciences",
+        "total_students": 18192,
+        "total_applications": 30,
+        "granted_patents": 10,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Anhalt University of Applied Sciences",
+        "total_students": 7052,
+        "total_applications": 23,
+        "granted_patents": 10,
+        "grant_rate": 43.5
+      },
+      {
+        "name": "Mnster University of Applied Sciences",
+        "total_students": 15297,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Kiel University of Applied Sciences",
+        "total_students": 7821,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Ostbayerische Technische Hochschule Regensburg",
+        "total_students": 10586,
+        "total_applications": 26,
+        "granted_patents": 9,
+        "grant_rate": 34.6
+      },
+      {
+        "name": "Karlsruhe University of Applied Sciences",
+        "total_students": 7141,
+        "total_applications": 20,
+        "granted_patents": 9,
+        "grant_rate": 45.0
+      },
+      {
+        "name": "Kempten University of Applied Sciences",
+        "total_students": 5337,
+        "total_applications": 13,
+        "granted_patents": 9,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Carl von Ossietzky the University of Oldenburg",
+        "total_students": 15368,
+        "total_applications": 15,
+        "granted_patents": 9,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Martin Luther University",
+        "total_students": 20757,
+        "total_applications": 32,
+        "granted_patents": 8,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "Technische Hochschule Nrnberg Georg Simon Ohm",
+        "total_students": 12924,
+        "total_applications": 27,
+        "granted_patents": 8,
+        "grant_rate": 29.6
+      },
+      {
+        "name": "University of Siegen",
+        "total_students": 17805,
+        "total_applications": 22,
+        "granted_patents": 8,
+        "grant_rate": 36.4
+      },
+      {
+        "name": "University of Wuppertal",
+        "total_students": 22601,
+        "total_applications": 16,
+        "granted_patents": 8,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Cologne University of Applied Sciences",
+        "total_students": 25672,
+        "total_applications": 15,
+        "granted_patents": 8,
+        "grant_rate": 53.3
+      },
+      {
+        "name": "Westflische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+        "total_students": 8143,
+        "total_applications": 13,
+        "granted_patents": 8,
+        "grant_rate": 61.5
+      },
+      {
+        "name": "Bundeswehr University Munich",
+        "total_students": 3973,
+        "total_applications": 35,
+        "granted_patents": 7,
+        "grant_rate": 20.0
+      },
+      {
+        "name": "Berlin University of Applied Sciences",
+        "total_students": 14326,
+        "total_applications": 20,
+        "granted_patents": 7,
+        "grant_rate": 35.0
+      },
+      {
+        "name": "Technische Hochschule Ingolstadt",
+        "total_students": 6342,
+        "total_applications": 16,
+        "granted_patents": 7,
+        "grant_rate": 43.8
+      },
+      {
+        "name": "Offenburg University",
+        "total_students": 4161,
+        "total_applications": 12,
+        "granted_patents": 7,
+        "grant_rate": 58.3
+      },
+      {
+        "name": "Kaiserslautern University of Applied Sciences",
+        "total_students": 6170,
+        "total_applications": 11,
+        "granted_patents": 7,
+        "grant_rate": 63.6
+      },
+      {
+        "name": "Niederrhein University of Applied Sciences",
+        "total_students": 13748,
+        "total_applications": 10,
+        "granted_patents": 7,
+        "grant_rate": 70.0
+      },
+      {
+        "name": "Ostwestfalen-Lippe University of Applied Sciences",
+        "total_students": 6203,
+        "total_applications": 17,
+        "granted_patents": 6,
+        "grant_rate": 35.3
+      },
+      {
+        "name": "Bauhaus-Universitt Weimar",
+        "total_students": 3988,
+        "total_applications": 12,
+        "granted_patents": 6,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Technical University Lbeck",
+        "total_students": 5204,
+        "total_applications": 11,
+        "granted_patents": 6,
+        "grant_rate": 54.5
+      },
+      {
+        "name": "Darmstadt University of Applied Sciences",
+        "total_students": 16180,
+        "total_applications": 9,
+        "granted_patents": 6,
+        "grant_rate": 66.7
+      },
+      {
+        "name": "Rosenheim University of Applied Sciences",
+        "total_students": 6463,
+        "total_applications": 7,
+        "granted_patents": 6,
+        "grant_rate": 85.7
+      },
+      {
+        "name": "Technical University of Applied Sciences Wildau",
+        "total_students": 3462,
+        "total_applications": 15,
+        "granted_patents": 5,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Furtwangen University",
+        "total_students": 5700,
+        "total_applications": 13,
+        "granted_patents": 5,
+        "grant_rate": 38.5
+      },
+      {
+        "name": "RheinMain University of Applied Sciences",
+        "total_students": 13482,
+        "total_applications": 10,
+        "granted_patents": 5,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "University of Applied Sciences Mannheim",
+        "total_students": 5583,
+        "total_applications": 15,
+        "granted_patents": 4,
+        "grant_rate": 26.7
+      },
+      {
+        "name": "Trier University of Applied Sciences",
+        "total_students": 6954,
+        "total_applications": 13,
+        "granted_patents": 4,
+        "grant_rate": 30.8
+      },
+      {
+        "name": "Osnabrck University",
+        "total_students": 13628,
+        "total_applications": 12,
+        "granted_patents": 4,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "University of Augsburg",
+        "total_students": 19975,
+        "total_applications": 9,
+        "granted_patents": 4,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "Konstanz University of Applied Sciences",
+        "total_students": 4670,
+        "total_applications": 8,
+        "granted_patents": 4,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Aschaffenburg University of Applied Sciences",
+        "total_students": 3424,
+        "total_applications": 7,
+        "granted_patents": 4,
+        "grant_rate": 57.1
+      },
+      {
+        "name": "Hamburg University of Applied Sciences",
+        "total_students": 16877,
+        "total_applications": 8,
+        "granted_patents": 3,
+        "grant_rate": 37.5
+      },
+      {
+        "name": "Aalen University",
+        "total_students": 5746,
+        "total_applications": 7,
+        "granted_patents": 3,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "University of Applied Sciences Saarbrcken",
+        "total_students": 6088,
+        "total_applications": 11,
+        "granted_patents": 2,
+        "grant_rate": 18.2
+      }
+    ],
+    "by_grant_rate": [
+      {
+        "name": "Coburg University of Applied Sciences",
+        "total_students": 5025,
+        "total_applications": 15,
+        "granted_patents": 13,
+        "grant_rate": 86.7
+      },
+      {
+        "name": "Rosenheim University of Applied Sciences",
+        "total_students": 6463,
+        "total_applications": 7,
+        "granted_patents": 6,
+        "grant_rate": 85.7
+      },
+      {
+        "name": "Niederrhein University of Applied Sciences",
+        "total_students": 13748,
+        "total_applications": 10,
+        "granted_patents": 7,
+        "grant_rate": 70.0
+      },
+      {
+        "name": "University of Applied Sciences and Arts Hildesheim/Holzminden/Gttingen",
+        "total_students": 6440,
+        "total_applications": 26,
+        "granted_patents": 18,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Kempten University of Applied Sciences",
+        "total_students": 5337,
+        "total_applications": 13,
+        "granted_patents": 9,
+        "grant_rate": 69.2
+      },
+      {
+        "name": "Darmstadt University of Applied Sciences",
+        "total_students": 16180,
+        "total_applications": 9,
+        "granted_patents": 6,
+        "grant_rate": 66.7
+      },
+      {
+        "name": "Karlsruhe Institute of Technology",
+        "total_students": 21848,
+        "total_applications": 1269,
+        "granted_patents": 811,
+        "grant_rate": 63.9
+      },
+      {
+        "name": "Kaiserslautern University of Applied Sciences",
+        "total_students": 6170,
+        "total_applications": 11,
+        "granted_patents": 7,
+        "grant_rate": 63.6
+      },
+      {
+        "name": "Westflische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+        "total_students": 8143,
+        "total_applications": 13,
+        "granted_patents": 8,
+        "grant_rate": 61.5
+      },
+      {
+        "name": "University of Kaiserslautern",
+        "total_students": 13607,
+        "total_applications": 44,
+        "granted_patents": 27,
+        "grant_rate": 61.4
+      },
+      {
+        "name": "University of Kassel",
+        "total_students": 23552,
+        "total_applications": 110,
+        "granted_patents": 66,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Carl von Ossietzky the University of Oldenburg",
+        "total_students": 15368,
+        "total_applications": 15,
+        "granted_patents": 9,
+        "grant_rate": 60.0
+      },
+      {
+        "name": "Aachen University of Applied Sciences",
+        "total_students": 14792,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Fachhochschule Dresden (Priv. FH)",
+        "total_students": 550,
+        "total_applications": 22,
+        "granted_patents": 13,
+        "grant_rate": 59.1
+      },
+      {
+        "name": "Mnster University of Applied Sciences",
+        "total_students": 15297,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Kiel University of Applied Sciences",
+        "total_students": 7821,
+        "total_applications": 17,
+        "granted_patents": 10,
+        "grant_rate": 58.8
+      },
+      {
+        "name": "Offenburg University",
+        "total_students": 4161,
+        "total_applications": 12,
+        "granted_patents": 7,
+        "grant_rate": 58.3
+      },
+      {
+        "name": "University of Applied Sciences Jena",
+        "total_students": 4534,
+        "total_applications": 19,
+        "granted_patents": 11,
+        "grant_rate": 57.9
+      },
+      {
+        "name": "Aschaffenburg University of Applied Sciences",
+        "total_students": 3424,
+        "total_applications": 7,
+        "granted_patents": 4,
+        "grant_rate": 57.1
+      },
+      {
+        "name": "Ilmenau University of Technology",
+        "total_students": 4889,
+        "total_applications": 104,
+        "granted_patents": 59,
+        "grant_rate": 56.7
+      },
+      {
+        "name": "Technical University Lbeck",
+        "total_students": 5204,
+        "total_applications": 11,
+        "granted_patents": 6,
+        "grant_rate": 54.5
+      },
+      {
+        "name": "Technische Universitt Dresden",
+        "total_students": 29286,
+        "total_applications": 492,
+        "granted_patents": 265,
+        "grant_rate": 53.9
+      },
+      {
+        "name": "Technical University of Berlin",
+        "total_students": 35149,
+        "total_applications": 388,
+        "granted_patents": 207,
+        "grant_rate": 53.4
+      },
+      {
+        "name": "Cologne University of Applied Sciences",
+        "total_students": 25672,
+        "total_applications": 15,
+        "granted_patents": 8,
+        "grant_rate": 53.3
+      },
+      {
+        "name": "Tbingen University",
+        "total_students": 27770,
+        "total_applications": 265,
+        "granted_patents": 137,
+        "grant_rate": 51.7
+      },
+      {
+        "name": "Leipzig University",
+        "total_students": 29927,
+        "total_applications": 91,
+        "granted_patents": 47,
+        "grant_rate": 51.6
+      },
+      {
+        "name": "Friedrich-Schiller-University of Jena",
+        "total_students": 17345,
+        "total_applications": 183,
+        "granted_patents": 94,
+        "grant_rate": 51.4
+      },
+      {
+        "name": "University of Lbeck",
+        "total_students": 5968,
+        "total_applications": 43,
+        "granted_patents": 22,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "Technische Hochschule Mittelhessen",
+        "total_students": 17930,
+        "total_applications": 41,
+        "granted_patents": 21,
+        "grant_rate": 51.2
+      },
+      {
+        "name": "Helmut Schmidt University of the Federal Armed Forces Hamburg",
+        "total_students": 2599,
+        "total_applications": 45,
+        "granted_patents": 23,
+        "grant_rate": 51.1
+      },
+      {
+        "name": "University of Hohenheim",
+        "total_students": 8392,
+        "total_applications": 24,
+        "granted_patents": 12,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "University of Wuppertal",
+        "total_students": 22601,
+        "total_applications": 16,
+        "granted_patents": 8,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Bauhaus-Universitt Weimar",
+        "total_students": 3988,
+        "total_applications": 12,
+        "granted_patents": 6,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "RheinMain University of Applied Sciences",
+        "total_students": 13482,
+        "total_applications": 10,
+        "granted_patents": 5,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Konstanz University of Applied Sciences",
+        "total_students": 4670,
+        "total_applications": 8,
+        "granted_patents": 4,
+        "grant_rate": 50.0
+      },
+      {
+        "name": "Technical University of Darmstadt",
+        "total_students": 24969,
+        "total_applications": 201,
+        "granted_patents": 99,
+        "grant_rate": 49.3
+      },
+      {
+        "name": "Clausthal University of Technology",
+        "total_students": 3446,
+        "total_applications": 49,
+        "granted_patents": 24,
+        "grant_rate": 49.0
+      },
+      {
+        "name": "Brunswick University of Technology",
+        "total_students": 17794,
+        "total_applications": 118,
+        "granted_patents": 57,
+        "grant_rate": 48.3
+      },
+      {
+        "name": "Hamburg University of Technology",
+        "total_students": 7157,
+        "total_applications": 79,
+        "granted_patents": 38,
+        "grant_rate": 48.1
+      },
+      {
+        "name": "Chemnitz University of Technology",
+        "total_students": 9670,
+        "total_applications": 44,
+        "granted_patents": 21,
+        "grant_rate": 47.7
+      },
+      {
+        "name": "University of Rostock",
+        "total_students": 12664,
+        "total_applications": 74,
+        "granted_patents": 35,
+        "grant_rate": 47.3
+      },
+      {
+        "name": "Humboldt University of Berlin",
+        "total_students": 36378,
+        "total_applications": 72,
+        "granted_patents": 34,
+        "grant_rate": 47.2
+      },
+      {
+        "name": "University of Potsdam",
+        "total_students": 21454,
+        "total_applications": 48,
+        "granted_patents": 22,
+        "grant_rate": 45.8
+      },
+      {
+        "name": "University of Kiel",
+        "total_students": 27468,
+        "total_applications": 148,
+        "granted_patents": 67,
+        "grant_rate": 45.3
+      },
+      {
+        "name": "Karlsruhe University of Applied Sciences",
+        "total_students": 7141,
+        "total_applications": 20,
+        "granted_patents": 9,
+        "grant_rate": 45.0
+      },
+      {
+        "name": "University of Freiburg",
+        "total_students": 23938,
+        "total_applications": 537,
+        "granted_patents": 241,
+        "grant_rate": 44.9
+      },
+      {
+        "name": "Johannes Gutenberg University Mainz",
+        "total_students": 30461,
+        "total_applications": 333,
+        "granted_patents": 148,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "University of Augsburg",
+        "total_students": 19975,
+        "total_applications": 9,
+        "granted_patents": 4,
+        "grant_rate": 44.4
+      },
+      {
+        "name": "University of Duisburg-Essen",
+        "total_students": 41322,
+        "total_applications": 116,
+        "granted_patents": 51,
+        "grant_rate": 44.0
+      },
+      {
+        "name": "Technische Hochschule Ingolstadt",
+        "total_students": 6342,
+        "total_applications": 16,
+        "granted_patents": 7,
+        "grant_rate": 43.8
+      },
+      {
+        "name": "Ruhr-University Bochum",
+        "total_students": 42088,
+        "total_applications": 71,
+        "granted_patents": 31,
+        "grant_rate": 43.7
+      },
+      {
+        "name": "University of Paderborn",
+        "total_students": 19110,
+        "total_applications": 39,
+        "granted_patents": 17,
+        "grant_rate": 43.6
+      },
+      {
+        "name": "Anhalt University of Applied Sciences",
+        "total_students": 7052,
+        "total_applications": 23,
+        "granted_patents": 10,
+        "grant_rate": 43.5
+      },
+      {
+        "name": "TU Dortmund University",
+        "total_students": 32228,
+        "total_applications": 95,
+        "granted_patents": 41,
+        "grant_rate": 43.2
+      },
+      {
+        "name": "University of Stuttgart",
+        "total_students": 22616,
+        "total_applications": 307,
+        "granted_patents": 132,
+        "grant_rate": 43.0
+      },
+      {
+        "name": "University of Bayreuth",
+        "total_students": 12773,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Jacobs University Bremen",
+        "total_students": 1531,
+        "total_applications": 35,
+        "granted_patents": 15,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "Aalen University",
+        "total_students": 5746,
+        "total_applications": 7,
+        "granted_patents": 3,
+        "grant_rate": 42.9
+      },
+      {
+        "name": "University of Hannover",
+        "total_students": 28817,
+        "total_applications": 119,
+        "granted_patents": 49,
+        "grant_rate": 41.2
+      },
+      {
+        "name": "University of Bremen",
+        "total_students": 17984,
+        "total_applications": 61,
+        "granted_patents": 25,
+        "grant_rate": 41.0
+      },
+      {
+        "name": "Technische Universitt Bergakademie Freiberg",
+        "total_students": 3574,
+        "total_applications": 49,
+        "granted_patents": 20,
+        "grant_rate": 40.8
+      },
+      {
+        "name": "Hannover Medical School",
+        "total_students": 3843,
+        "total_applications": 235,
+        "granted_patents": 95,
+        "grant_rate": 40.4
+      },
+      {
+        "name": "Brandenburg University of Technology (BTU) Cottbus Senftenberg",
+        "total_students": 6830,
+        "total_applications": 58,
+        "granted_patents": 23,
+        "grant_rate": 39.7
+      },
+      {
+        "name": "Heidelberg University",
+        "total_students": 28448,
+        "total_applications": 420,
+        "granted_patents": 166,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Bielefeld University",
+        "total_students": 24488,
+        "total_applications": 43,
+        "granted_patents": 17,
+        "grant_rate": 39.5
+      },
+      {
+        "name": "Aachen University",
+        "total_students": 47521,
+        "total_applications": 351,
+        "granted_patents": 137,
+        "grant_rate": 39.0
+      },
+      {
+        "name": "Heinrich Heine University Dsseldorf",
+        "total_students": 33942,
+        "total_applications": 70,
+        "granted_patents": 27,
+        "grant_rate": 38.6
+      },
+      {
+        "name": "Furtwangen University",
+        "total_students": 5700,
+        "total_applications": 13,
+        "granted_patents": 5,
+        "grant_rate": 38.5
+      },
+      {
+        "name": "University of Konstanz",
+        "total_students": 10939,
+        "total_applications": 63,
+        "granted_patents": 24,
+        "grant_rate": 38.1
+      },
+      {
+        "name": "University of Erlangen-Nrnberg",
+        "total_students": 37728,
+        "total_applications": 553,
+        "granted_patents": 210,
+        "grant_rate": 38.0
+      },
+      {
+        "name": "Hamburg University of Applied Sciences",
+        "total_students": 16877,
+        "total_applications": 8,
+        "granted_patents": 3,
+        "grant_rate": 37.5
+      },
+      {
+        "name": "Philipps University of Marburg",
+        "total_students": 21723,
+        "total_applications": 129,
+        "granted_patents": 48,
+        "grant_rate": 37.2
+      },
+      {
+        "name": "University of Siegen",
+        "total_students": 17805,
+        "total_applications": 22,
+        "granted_patents": 8,
+        "grant_rate": 36.4
+      },
+      {
+        "name": "Free University of Berlin",
+        "total_students": 37608,
+        "total_applications": 164,
+        "granted_patents": 58,
+        "grant_rate": 35.4
+      },
+      {
+        "name": "Ostwestfalen-Lippe University of Applied Sciences",
+        "total_students": 6203,
+        "total_applications": 17,
+        "granted_patents": 6,
+        "grant_rate": 35.3
+      },
+      {
+        "name": "University of Cologne",
+        "total_students": 52204,
+        "total_applications": 122,
+        "granted_patents": 43,
+        "grant_rate": 35.2
+      },
+      {
+        "name": "Berlin University of Applied Sciences",
+        "total_students": 14326,
+        "total_applications": 20,
+        "granted_patents": 7,
+        "grant_rate": 35.0
+      },
+      {
+        "name": "Ostbayerische Technische Hochschule Regensburg",
+        "total_students": 10586,
+        "total_applications": 26,
+        "granted_patents": 9,
+        "grant_rate": 34.6
+      },
+      {
+        "name": "Ludwig Maximilian University of Munich",
+        "total_students": 51005,
+        "total_applications": 307,
+        "granted_patents": 105,
+        "grant_rate": 34.2
+      },
+      {
+        "name": "Ulm University",
+        "total_students": 10164,
+        "total_applications": 82,
+        "granted_patents": 28,
+        "grant_rate": 34.1
+      },
+      {
+        "name": "Justus Liebig University Giessen",
+        "total_students": 27184,
+        "total_applications": 139,
+        "granted_patents": 47,
+        "grant_rate": 33.8
+      },
+      {
+        "name": "University of Bonn",
+        "total_students": 36805,
+        "total_applications": 172,
+        "granted_patents": 58,
+        "grant_rate": 33.7
+      },
+      {
+        "name": "Munich University of Applied Sciences",
+        "total_students": 18192,
+        "total_applications": 30,
+        "granted_patents": 10,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Technical University of Applied Sciences Wildau",
+        "total_students": 3462,
+        "total_applications": 15,
+        "granted_patents": 5,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "Osnabrck University",
+        "total_students": 13628,
+        "total_applications": 12,
+        "granted_patents": 4,
+        "grant_rate": 33.3
+      },
+      {
+        "name": "University of Wrzburg",
+        "total_students": 27149,
+        "total_applications": 227,
+        "granted_patents": 74,
+        "grant_rate": 32.6
+      },
+      {
+        "name": "Technical University of Munich",
+        "total_students": 47047,
+        "total_applications": 647,
+        "granted_patents": 208,
+        "grant_rate": 32.1
+      },
+      {
+        "name": "University of Regensburg",
+        "total_students": 20702,
+        "total_applications": 115,
+        "granted_patents": 36,
+        "grant_rate": 31.3
+      },
+      {
+        "name": "Trier University of Applied Sciences",
+        "total_students": 6954,
+        "total_applications": 13,
+        "granted_patents": 4,
+        "grant_rate": 30.8
+      },
+      {
+        "name": "Saarland University",
+        "total_students": 16240,
+        "total_applications": 126,
+        "granted_patents": 38,
+        "grant_rate": 30.2
+      },
+      {
+        "name": "Technische Hochschule Nrnberg Georg Simon Ohm",
+        "total_students": 12924,
+        "total_applications": 27,
+        "granted_patents": 8,
+        "grant_rate": 29.6
+      },
+      {
+        "name": "University of Greifswald",
+        "total_students": 10366,
+        "total_applications": 46,
+        "granted_patents": 13,
+        "grant_rate": 28.3
+      },
+      {
+        "name": "University of Mnster",
+        "total_students": 43728,
+        "total_applications": 201,
+        "granted_patents": 56,
+        "grant_rate": 27.9
+      },
+      {
+        "name": "University of Applied Sciences Mannheim",
+        "total_students": 5583,
+        "total_applications": 15,
+        "granted_patents": 4,
+        "grant_rate": 26.7
+      },
+      {
+        "name": "Frankfurt University",
+        "total_students": 43461,
+        "total_applications": 140,
+        "granted_patents": 37,
+        "grant_rate": 26.4
+      },
+      {
+        "name": "University of Hamburg",
+        "total_students": 43110,
+        "total_applications": 200,
+        "granted_patents": 50,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "Martin Luther University",
+        "total_students": 20757,
+        "total_applications": 32,
+        "granted_patents": 8,
+        "grant_rate": 25.0
+      },
+      {
+        "name": "Otto von Guericke University of Magdeburg",
+        "total_students": 13143,
+        "total_applications": 101,
+        "granted_patents": 25,
+        "grant_rate": 24.8
+      },
+      {
+        "name": "Bundeswehr University Munich",
+        "total_students": 3973,
+        "total_applications": 35,
+        "granted_patents": 7,
+        "grant_rate": 20.0
+      },
+      {
+        "name": "University of Applied Sciences Saarbrcken",
+        "total_students": 6088,
+        "total_applications": 11,
+        "granted_patents": 2,
+        "grant_rate": 18.2
+      }
+    ]
+  }
+}

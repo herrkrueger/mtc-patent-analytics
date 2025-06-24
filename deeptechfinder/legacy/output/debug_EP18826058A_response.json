@@ -1,0 +1,576 @@
+{
+  "ops:world-patent-data": {
+    "@xmlns": {
+      "ops": "http://ops.epo.org",
+      "$": "http://www.epo.org/exchange",
+      "xlink": "http://www.w3.org/1999/xlink"
+    },
+    "exchange-documents": {
+      "exchange-document": [
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "64870515",
+          "@country": "EP",
+          "@doc-number": "3732452",
+          "@kind": "A1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "EP"
+                  },
+                  "doc-number": {
+                    "$": "3732452"
+                  },
+                  "kind": {
+                    "$": "A1"
+                  },
+                  "date": {
+                    "$": "20201104"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "EP3732452"
+                  },
+                  "date": {
+                    "$": "20201104"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "G01B   5/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "G01B   7/    16            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "G01L   1/    22            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "G"
+                },
+                "class": {
+                  "$": "01"
+                },
+                "subclass": {
+                  "$": "L"
+                },
+                "main-group": {
+                  "$": "1"
+                },
+                "subgroup": {
+                  "$": "2268"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              }
+            },
+            "application-reference": {
+              "@doc-id": "505636910",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "EP"
+                  },
+                  "doc-number": {
+                    "$": "18826058"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "EP20180826058"
+                  },
+                  "date": {
+                    "$": "20181221"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "18826058.2"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "DE201710223831"
+                      },
+                      "date": {
+                        "$": "20171228"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "102017223831"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "WO2018EP86559"
+                      },
+                      "date": {
+                        "$": "20181221"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "EP2018086559"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "HOCHSCHULE FUER TECHNIK UND WIRTSCH DES SAARLANDES\u2002[DE]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "Hochschule f\u00fcr Technik und Wirtschaft des Saarlandes"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGOSCH MATTH\u00c4US\u2002[DE]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "VOLLBERG DENNIS\u2002[DE]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGOSCH, Matth\u00e4us,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "VOLLBERG, Dennis,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Langosch, Matth\u00e4us,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Vollberg, Dennis"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": [
+              {
+                "$": "DEHNUNGSMESSSTREIFEN UMFASSEND EIN FLEXIBLES SUBSTRAT SOWIE EINE WIDERSTANDSSCHICHT UND SENSORELEMENT UMFASSEND EINEN DEHNUNGSMESSSTREIFEN",
+                "@lang": "de"
+              },
+              {
+                "$": "JAUGE EXTENSOM\u00c9TRIQUE COMPRENANT UN SUBSTRAT FLEXIBLE ET UNE COUCHE R\u00c9SISTIVE ET UN \u00c9L\u00c9MENT CAPTEUR COMPRENANT UNE JAUGE EXTENSOM\u00c9TRIQUE",
+                "@lang": "fr"
+              },
+              {
+                "$": "STRAIN GAUGE COMPRISING A FLEXIBLE SUBSTRATE AND A RESISTANCE LAYER, AND SENSOR ELEMENT COMPRISING A STRAIN GAUGE",
+                "@lang": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@system": "ops.epo.org",
+          "@family-id": "64870515",
+          "@country": "EP",
+          "@doc-number": "3732452",
+          "@kind": "B1",
+          "bibliographic-data": {
+            "publication-reference": {
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "EP"
+                  },
+                  "doc-number": {
+                    "$": "3732452"
+                  },
+                  "kind": {
+                    "$": "B1"
+                  },
+                  "date": {
+                    "$": "20230510"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "EP3732452"
+                  },
+                  "date": {
+                    "$": "20230510"
+                  }
+                }
+              ]
+            },
+            "classifications-ipcr": {
+              "classification-ipcr": [
+                {
+                  "@sequence": "1",
+                  "text": {
+                    "$": "G01B   5/    00            A I"
+                  }
+                },
+                {
+                  "@sequence": "2",
+                  "text": {
+                    "$": "G01B   7/    16            A I"
+                  }
+                },
+                {
+                  "@sequence": "3",
+                  "text": {
+                    "$": "G01L   1/    22            A I"
+                  }
+                }
+              ]
+            },
+            "patent-classifications": {
+              "patent-classification": {
+                "@sequence": "1",
+                "classification-scheme": {
+                  "@office": "EP",
+                  "@scheme": "CPCI"
+                },
+                "section": {
+                  "$": "G"
+                },
+                "class": {
+                  "$": "01"
+                },
+                "subclass": {
+                  "$": "L"
+                },
+                "main-group": {
+                  "$": "1"
+                },
+                "subgroup": {
+                  "$": "2268"
+                },
+                "classification-value": {
+                  "$": "I"
+                },
+                "generating-office": {
+                  "$": "EP"
+                }
+              }
+            },
+            "application-reference": {
+              "@doc-id": "505636910",
+              "document-id": [
+                {
+                  "@document-id-type": "docdb",
+                  "country": {
+                    "$": "EP"
+                  },
+                  "doc-number": {
+                    "$": "18826058"
+                  },
+                  "kind": {
+                    "$": "A"
+                  }
+                },
+                {
+                  "@document-id-type": "epodoc",
+                  "doc-number": {
+                    "$": "EP20180826058"
+                  },
+                  "date": {
+                    "$": "20181221"
+                  }
+                },
+                {
+                  "@document-id-type": "original",
+                  "doc-number": {
+                    "$": "18826058.2"
+                  }
+                }
+              ]
+            },
+            "priority-claims": {
+              "priority-claim": [
+                {
+                  "@sequence": "1",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "DE201710223831"
+                      },
+                      "date": {
+                        "$": "20171228"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "102017223831"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@sequence": "2",
+                  "@kind": "national",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "WO2018EP86559"
+                      },
+                      "date": {
+                        "$": "20181221"
+                      }
+                    },
+                    {
+                      "@document-id-type": "original",
+                      "doc-number": {
+                        "$": "EP2018086559"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "parties": {
+              "applicants": {
+                "applicant": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "applicant-name": {
+                      "name": {
+                        "$": "HOCHSCHULE FUER TECHNIK UND WIRTSCH DES SAARLANDES\u2002[DE]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "applicant-name": {
+                      "name": {
+                        "$": "Hochschule f\u00fcr Technik und Wirtschaft des Saarlandes"
+                      }
+                    }
+                  }
+                ]
+              },
+              "inventors": {
+                "inventor": [
+                  {
+                    "@sequence": "1",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGOSCH MATTH\u00c4US\u2002[DE]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "epodoc",
+                    "inventor-name": {
+                      "name": {
+                        "$": "VOLLBERG DENNIS\u2002[DE]"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "1",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "LANGOSCH, Matth\u00e4us,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "2",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "VOLLBERG, Dennis,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "3",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Langosch, Matth\u00e4us,"
+                      }
+                    }
+                  },
+                  {
+                    "@sequence": "4",
+                    "@data-format": "original",
+                    "inventor-name": {
+                      "name": {
+                        "$": "Vollberg, Dennis"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "invention-title": [
+              {
+                "$": "DEHNUNGSMESSSTREIFEN UMFASSEND EIN FLEXIBLES SUBSTRAT SOWIE EINE WIDERSTANDSSCHICHT UND SENSORELEMENT UMFASSEND EINEN DEHNUNGSMESSSTREIFEN",
+                "@lang": "de"
+              },
+              {
+                "$": "JAUGE EXTENSOM\u00c9TRIQUE COMPRENANT UN SUBSTRAT FLEXIBLE ET UNE COUCHE R\u00c9SISTIVE ET UN \u00c9L\u00c9MENT CAPTEUR COMPRENANT UNE JAUGE EXTENSOM\u00c9TRIQUE",
+                "@lang": "fr"
+              },
+              {
+                "$": "STRAIN GAUGE COMPRISING A FLEXIBLE SUBSTRATE AND A RESISTANCE LAYER, AND SENSOR ELEMENT COMPRISING A STRAIN GAUGE",
+                "@lang": "en"
+              }
+            ],
+            "references-cited": {
+              "citation": {
+                "@cited-phase": "national-examination",
+                "@cited-by": "unknown",
+                "@sequence": "1",
+                "patcit": {
+                  "@dnum-type": "publication number",
+                  "@num": "1",
+                  "document-id": [
+                    {
+                      "@document-id-type": "epodoc",
+                      "doc-number": {
+                        "$": "DE19826411"
+                      },
+                      "date": {
+                        "$": "20010503"
+                      }
+                    },
+                    {
+                      "@document-id-type": "docdb",
+                      "country": {
+                        "$": "DE"
+                      },
+                      "doc-number": {
+                        "$": "19826411"
+                      },
+                      "kind": {
+                        "$": "C2"
+                      },
+                      "date": {
+                        "$": "20010503"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

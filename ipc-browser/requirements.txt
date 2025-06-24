@@ -1,8 +1,0 @@
-flask
-psycopg2
-sqlalchemy
-sqlalchemy_utils
-pandas
-lxml
-sklearn
-requests
